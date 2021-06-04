@@ -1452,7 +1452,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 				$att = 'a:blip#r:embed';
 				$magnet = 'w:drawing';
 			} else {
-				return $this->RaiseError('Parameter ope=changepic used in the field ['.$Loc->FullName.'] has failed to found the picture.');
+                return $this->RaiseError('Parameter ope=changepic used in the field ['.$Loc->FullName.'] has failed to find the picture.');
 			}
 		} else {
 			return $this->RaiseError('Parameter ope=changepic used in the field ['.$Loc->FullName.'] is not supported with the current document type.');
@@ -1687,7 +1687,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 	/**
 	 * Return the path of the image on the server corresponding the current field being merged.
 	 */
-	function TbsPicExternalPath(&$Value, &$PrmLst, $Loc) {
+	function TbsPicExternalPath(&$Value, &$PrmLst, $Loc, &$DataType) {
 
 		$TBS = &$this->TBS;
 
@@ -1701,24 +1701,29 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 		if ( (!isset($PrmLst['pic_prepared'])) && isset($PrmLst['default']) ) $TBS->meth_Merge_AutoVar($PrmLst['default'],true); // merge automatic TBS fields in the path
 
 		// check if the picture exists, and eventually use the default picture
-		if (!file_exists($FullPath)) {
-			if (isset($PrmLst['default'])) {
+		if (file_exists($FullPath)) {
+			$DataType = TBSZIP_FILE;
+			return $FullPath;
+		} elseif (($FullPath = file_get_contents($FullPath))!==false) {
+			$DataType = TBSZIP_STRING;
+			return $FullPath;
+		} elseif (isset($PrmLst['default'])) {
 				$x = $PrmLst['default'];
 				if ($x==='current') {
 					return false;
 				} elseif (file_exists($x)) {
-					$FullPath = $x;
+				$DataType = TBSZIP_FILE;
+				return $x;
+			} elseif (($x = file_get_contents($x))!==false) {
+				$DataType = TBSZIP_STRING;
+				return $x;
 				} else {
 					return $this->RaiseError('The default picture "'.$x.'" defined by parameter "default" of the field ['.$Loc->FullName.'] is not found.');
 				}
-			} else {
-				return false;
-			}
 		}
 
-		return $FullPath;
-
-	}
+				return false;
+			}
 
 	/**
 	 * Add a picture inside the archive, use parameters 'from' and 'as'.
@@ -1748,7 +1753,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 		$PrmLst['pic_prepared'] = true; // mark the locator as Picture prepared
 
 		// Path of the external file to copy inside the current document.
-		$ExternalPath = $this->TbsPicExternalPath($Value, $PrmLst, $Loc);
+		$ExternalPath = $this->TbsPicExternalPath($Value, $PrmLst, $Loc, $DataType);
 
 		if ($ExternalPath === false) {
 			if (isset($PrmLst['att'])) {
@@ -1766,6 +1771,18 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 		if (isset($PrmLst['as'])) {
 			if (!isset($PrmLst['pic_prepared'])) $TBS->meth_Merge_AutoVar($PrmLst['as'],true); // merge automatic TBS fields in the path
 			$InternalPath = str_replace($TBS->_ChrVal,$Value,$PrmLst['as']); // merge [val] fields in the path
+		} else if ($DataType===TBSZIP_STRING) {
+			$x = md5($ExternalPath);
+			if (!isset($this->ImageInternal[$x])) {
+				$finfo = new finfo(FILEINFO_EXTENSION);
+				$ext = $finfo->buffer($ExternalPath);
+				if (!empty($ext)) {
+					$ext = explode('/', $ext)[0];
+				}
+				$this->ImageInternal[$x] = 'opentbs_added_' . $this->ImageIndex . '.' . $ext;
+				$this->ImageIndex++;
+			}
+			$InternalPath = $this->ImageInternal[$x];
 		} else {
 			// uniqueness by the name of the file, not its full path, this is a weakness
 			// OpenXML does not support spaces and accents in internal file names.
@@ -1785,7 +1802,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 
 		// actually add the picture inside the archive
 		if ($this->FileGetIdxAdd($InternalPath)===false) {
-			$this->FileAdd($InternalPath, $ExternalPath, TBSZIP_FILE, true);
+			$this->FileAdd($InternalPath, $ExternalPath, $DataType, true);
 		}
 
 		// preparation for others file in the archive
@@ -1877,6 +1894,9 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 	function TbsPicAdjust(&$Txt, &$Loc, &$File) {
 
 		$fDim = @getimagesize($File); // file dimensions
+		if (!is_array($fDim)) {
+			$fDim = getimagesizefromstring($File);
+		}
 		if (!is_array($fDim)) return;
 		$w = (float) $fDim[0];
 		$h = (float) $fDim[1];
@@ -9055,6 +9075,9 @@ class clsTbsZip {
 				if ($len_u===false) $len_u = $fz;
 				$len_c = ($Compress) ? false : $fz;
 			} else {
+				if (empty(htmlentities($path))) {
+					$path = bin2hex(substr($path, 32));
+				}
 				return $this->RaiseError("Cannot add the file '".$path."' because it is not found.");
 			}
 		}
