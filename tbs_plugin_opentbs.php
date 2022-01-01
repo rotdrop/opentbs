@@ -192,7 +192,7 @@ class clsOpenTBS extends clsTbsZip {
 		$TBS->Plugin(-4); // deactivate other plugins
 
 		$Debug = (($Render & OPENTBS_DEBUG_XML)==OPENTBS_DEBUG_XML);
-		if ($Debug) $this->DebugLst = array();
+		if ($Debug??false) $this->DebugLst = array();
 
 		$TbsShow = (($Render & OPENTBS_DEBUG_AVOIDAUTOFIELDS)!=OPENTBS_DEBUG_AVOIDAUTOFIELDS);
 
@@ -220,7 +220,7 @@ class clsOpenTBS extends clsTbsZip {
 			if ($explicitRef && (!isset($this->MsExcel_KeepRelative[$idx])) ) {
 				$this->MsExcel_ConvertToExplicit($TBS->Source);
 			}
-			if ($Debug) $this->DebugLst[$this->TbsGetFileName($idx)] = $TBS->Source;
+			if ($Debug??false) $this->DebugLst[$this->TbsGetFileName($idx)] = $TBS->Source;
 			$this->FileReplace($idx, $TBS->Source, TBSZIP_STRING, $TBS->OtbsAutoUncompress);
 		}
 		$TBS->Plugin(-10); // reactivate other plugins
@@ -239,7 +239,7 @@ class clsOpenTBS extends clsTbsZip {
 			exit;
 		}
 
-		if ($Debug) {
+		if ($Debug??false) {
 			// Do the debug even if other options are used
 			$this->TbsDebug_Merge(true, false);
 		} elseif (($Render & TBS_OUTPUT)==TBS_OUTPUT) { // notice that TBS_OUTPUT = OPENTBS_DOWNLOAD
@@ -1780,7 +1780,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 
 
 		$MimeLoc = null;
-		foreach ($ImagesLoc as $ImageLoc) {
+		foreach ($ImagesLoc??[] as $ImageLoc) {
 			if ($ImageLoc['principal']) {
 				$MimeLoc = $ImageLoc['mime'];
 				break;
@@ -1814,7 +1814,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
             if (empty($mimeType)) {
 				$finfo = new finfo(FILEINFO_MIME_TYPE);
 				$mimeType = $finfo->buffer($ExternalPath);
-                if ($debug) echo "**** MIMETYPE IS " . $mimeType . PHP_EOL;
+                if ($Debug??false) echo "**** MIMETYPE IS " . $mimeType . PHP_EOL;
             }
 			$x = md5($ExternalPath);
 			if (!isset($this->ImageInternal[$x])) {
@@ -1826,7 +1826,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 				} else {
 					$ext = explode('/', $ext)[0];
 				}
-                if ($debug) echo "**** EXT IS " . $ext . PHP_EOL;
+                if ($Debug??false) echo "**** EXT IS " . $ext . PHP_EOL;
 				$this->ImageInternal[$x] = 'opentbs_added_' . $this->ImageIndex . '.' . $ext;
 				$this->ImageIndex++;
 			}
@@ -1844,7 +1844,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
             if (empty($mimeType)) {
 				$finfo = new finfo(FILEINFO_MIME_TYPE);
 				$mimeType = $finfo->buffer($ExternalPath);
-                if ($debug) echo "**** MIMETYPE IS " . $mimeType . PHP_EOL;
+                if ($Debug??false) echo "**** MIMETYPE IS " . $mimeType . PHP_EOL;
 		}
 		}
 
@@ -1977,7 +1977,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 				$fDim = null;
 			}
 		}
-		if ($debug) {
+		if ($Debug??false) {
 			if (!is_array($fDim)) {
 				echo '*** NO IMAGE SIZE' . PHP_EOL;
 			} else {
@@ -2867,7 +2867,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 	 */
 	function XML_GetNextCellLoc(&$SheetLoc, $Range, $PrevLoc, $RowEl, $CellEl, $AttRowR, $AttCellR, $AddMissing) {
 
-		$debug = false;
+		$Debug = false;
 		// Retreive previous and current cell coordinates
 		if ( $PrevLoc === false ) {
 			$rowLoc = false;
@@ -2924,7 +2924,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 			// Return the repeated cell if any
 			if ($repeat !== false) {
 				if (!isset($targetRow)) exit("\n oups");
-				if ($debug) echo "\n* XML_GetNextCellLoc CELLULE REPETEE : targetRow = $targetRow, targetCol = $targetCol";
+				if ($Debug??false) echo "\n* XML_GetNextCellLoc CELLULE REPETEE : targetRow = $targetRow, targetCol = $targetCol";
 				$repeat->cellCol = $targetCol;
 				$repeat->cellRow = $targetRow;
 				return $repeat;
@@ -2936,24 +2936,24 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 
 		// Moves to the next cell
 
-		if ($debug) echo "\n* XML_GetNextCellLoc : currRow = $currRow, currCol = $currCol | targetRow = $targetRow, targetCol = $targetCol | currRowOk = ".var_export($currRowOk,true).", currColOk = ".var_export($currColOk,true);
+		if ($Debug??false) echo "\n* XML_GetNextCellLoc : currRow = $currRow, currCol = $currCol | targetRow = $targetRow, targetCol = $targetCol | currRowOk = ".var_export($currRowOk,true).", currColOk = ".var_export($currColOk,true);
 
 		// Reach the asked row
-		if ($debug) echo "\n  * Search Row : loop";
+		if ($Debug??false) echo "\n  * Search Row : loop";
 		while ( $currRowOk && ($currRow < $targetRow) ) {
-			if ($debug) echo "\n  * Search Row #{$currRow}, r_pos=$r_pos : ";
+			if ($Debug??false) echo "\n  * Search Row #{$currRow}, r_pos=$r_pos : ";
 			if ( ($rowLoc !== false) && ($rowLoc->RepeatIdx < $rowLoc->RepeatMax) ) {
-				if ($debug) echo "ok REPEATED";
+				if ($Debug??false) echo "ok REPEATED";
 				// It is a repated row
 				$rowLoc->RepeatIdx++;
 				$currRow++;
 			} else {
 				$rowLoc = clsTbsXmlLoc::FindElement($SheetLoc, $RowEl, $r_pos, true);
 				if ($rowLoc === false) {
-					if ($debug) echo "FAIL row not found";
+					if ($Debug??false) echo "FAIL row not found";
 					$currRowOk = false;
 				} else {
-					if ($debug) echo "ok found";
+					if ($Debug??false) echo "ok found";
 					$r_pos = $rowLoc->PosEnd + 1;
 					$currRow++;
 					// Repeat info
@@ -2971,7 +2971,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 		}
 
 		// Insert missing rows
-		if ($debug) echo "\n  * Insert Row : check";
+		if ($Debug??false) echo "\n  * Insert Row : check";
 		if (!$currRowOk) {
 			$currColOk = false;
 			if ($AddMissing) {
@@ -2991,24 +2991,24 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 		}
 
 		// Reach the asked cell
-		if ($debug) echo "\n  * Search Col : loop : currColOk=" . var_export($currColOk, true) . ", currCol=$currCol, targetCol=$targetCol";
+		if ($Debug??false) echo "\n  * Search Col : loop : currColOk=" . var_export($currColOk, true) . ", currCol=$currCol, targetCol=$targetCol";
 		$cellLoc = false;
 		while ($currColOk && ($currCol < $targetCol)) {
 			if ($rowLoc === false) return $this->RaiseError("No parent row.");
 			if (isset($rowLoc->CellLst[$currCol])) return $this->RaiseError("This repeated row should have been previsouly catched.");
-			if ($debug) echo "\n  * Search Col (c_pos=$c_pos) : ";
+			if ($Debug??false) echo "\n  * Search Col (c_pos=$c_pos) : ";
 			if ( ($cellLoc !== false) && ($cellLoc->RepeatIdx < $cellLoc->RepeatMax) ) {
-				if ($debug) echo "ok REPEATED";
+				if ($Debug??false) echo "ok REPEATED";
 				// It is a repated row
 				$cellLoc->RepeatIdx++;
 				$currCol++;
 			} else {
 				$cellLoc = clsTbsXmlLoc::FindElement($rowLoc, $CellEl, $c_pos, true);
 				if ($cellLoc === false) {
-					if ($debug) echo "FAIL, rowLoc = " . $rowLoc->GetSrc();
+					if ($Debug??false) echo "FAIL, rowLoc = " . $rowLoc->GetSrc();
 					$currColOk = false;
 				} else {
-					if ($debug) echo "ok found";
+					if ($Debug??false) echo "ok found";
 					$c_pos = $cellLoc->PosEnd + 1;
 					$currCol++;
 					// Repeat info
@@ -3025,7 +3025,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 		}
 
 		// Insert missing cells
-		if ($debug) echo "\n  * Insert Cell : check";
+		if ($Debug??false) echo "\n  * Insert Cell : check";
 		if (!$currColOk) {
 			if ($AddMissing) {
 				// Insert the empty cells
@@ -3038,7 +3038,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 				$cellLoc->FindEndTag();
 			} else {
 				// No more data => locator on a non-existing entity ($cellLoc->Exists = false)
-				if ($debug) echo "\n* Insert Cell : create phantom cell";
+				if ($Debug??false) echo "\n* Insert Cell : create phantom cell";
 				$cellLoc = clsTbsXmlLoc::CreatePhantomElement($rowLoc, $rowLoc->GetInnerAppendPos());
 			}
 			$cellLoc->RepeatIdx = 1;
@@ -3057,13 +3057,13 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 		//echo "\n   rowLoc->GetSrc   = " . $rowLoc->GetSrc();
 		//echo "\n   cellLoc = " . var_export($cellLoc, true);
 
-		if ($debug) echo "\n  * Result cellLoc = ($targetRow, $targetCol)  RowOk=".var_export($currRowOk,true).", Exists=".var_export($cellLoc->Exists,true);
-		if ($debug) echo "\n  * cellLoc->GetSrc  = " . $cellLoc->GetSrc();
+		if ($Debug??false) echo "\n  * Result cellLoc = ($targetRow, $targetCol)  RowOk=".var_export($currRowOk,true).", Exists=".var_export($cellLoc->Exists,true);
+		if ($Debug??false) echo "\n  * cellLoc->GetSrc  = " . $cellLoc->GetSrc();
 
 		// In case of a full colmun range, we don't return the extra missing columns.
 		// This means a valid row can have no cells.
 		if ( $Range['cfull'] && (!$cellLoc->Exists) ) {
-			if ($debug) echo " ... swicht to next cell";
+			if ($Debug??false) echo " ... swicht to next cell";
 			return $this->XML_GetNextCellLoc($SheetLoc, $Range, $cellLoc, $RowEl, $CellEl, $AttRowR, $AttCellR, $AddMissing);
 		}
 
@@ -3875,7 +3875,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 				}
 
 				// debug mode
-				if ($Debug) $this->DebugLst[$o->FicPath] = $o->FicTxt;
+				if ($Debug??false) $this->DebugLst[$o->FicPath] = $o->FicTxt;
 
 				$this->OpenXmlRid[$doc]->RidNew = array(); // Erase the Rid done because there can be another commit
 
@@ -3969,7 +3969,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 
 		if ($ok) {
 			// debug mode
-			if ($Debug) $this->DebugLst[$file] = $Txt;
+			if ($Debug??false) $this->DebugLst[$file] = $Txt;
 
 			if ($idx===false) {
 				$this->FileAdd($file, $Txt);
@@ -6325,7 +6325,7 @@ If they are blank spaces, line beaks, or other unexpected characters, then you h
 		// Save changes (no need to save it in the park because this fct is called after merging)
 		$this->FileReplace($idx, $Txt);
 
-		if ($Debug) $this->DebugLst[$name] = $Txt;
+		if ($Debug??false) $this->DebugLst[$name] = $Txt;
 
 	}
 
