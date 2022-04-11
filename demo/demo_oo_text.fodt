@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:generator>LibreOffice/7.2.6.2$Linux_X86_64 LibreOffice_project/20$Build-2</meta:generator><meta:creation-date>2013-10-26T15:56:08.590000000</meta:creation-date><meta:editing-cycles>61</meta:editing-cycles><meta:editing-duration>PT3H46M27S</meta:editing-duration><dc:date>2022-04-11T21:24:41.315408694</dc:date><dc:title>OpenTBS demo</dc:title><dc:creator>Claus-Justus Heine</dc:creator><meta:document-statistic meta:table-count="1" meta:image-count="2" meta:object-count="1" meta:page-count="5" meta:paragraph-count="41" meta:word-count="531" meta:character-count="3283" meta:non-whitespace-character-count="2794"/><meta:user-defined meta:name="Creator">Skrol29</meta:user-defined></office:meta>
+ <office:meta><meta:generator>LibreOffice/7.2.6.2$Linux_X86_64 LibreOffice_project/20$Build-2</meta:generator><meta:creation-date>2013-10-26T15:56:08.590000000</meta:creation-date><meta:editing-cycles>62</meta:editing-cycles><meta:editing-duration>PT3H47M19S</meta:editing-duration><dc:date>2022-04-11T21:28:16.474693847</dc:date><dc:title>OpenTBS demo</dc:title><dc:creator>Claus-Justus Heine</dc:creator><meta:document-statistic meta:table-count="1" meta:image-count="3" meta:object-count="1" meta:page-count="5" meta:paragraph-count="42" meta:word-count="545" meta:character-count="3350" meta:non-whitespace-character-count="2848"/><meta:user-defined meta:name="Creator">Skrol29</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">117602</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">97492</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">32514</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">33863</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">38864</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">54009</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">8054</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">125508</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">25940</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">97954</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">117602</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">32512</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">151463</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">97492</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">38862</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">151499</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -104,7 +104,7 @@
    </config:config-item-map-indexed>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3615594</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3742897</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -171,7 +171,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#808080" draw:fill-color="#cfe7f5" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -394,99 +394,106 @@
    <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="001ce5b8" officeooo:paragraph-rsid="002ee5fe"/>
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" officeooo:paragraph-rsid="00372b6a" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" officeooo:paragraph-rsid="00372b6a" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="001ce5b8" officeooo:paragraph-rsid="002ee5fe"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="0025deb3" officeooo:paragraph-rsid="0025deb3" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Calibri" fo:font-size="26pt" fo:language="en" fo:country="US" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:color="#0099ff" loext:opacity="100%" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" style:page-number="auto" fo:break-before="page" style:shadow="none" fo:keep-with-next="always"/>
    <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
    <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
    <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" style:page-number="auto" fo:break-before="page" fo:keep-with-next="always"/>
    <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0024c6ec" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0021c81f"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties style:text-autospace="none"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Calibri" fo:font-size="26pt" fo:language="en" fo:country="US" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:color="#0099ff" loext:opacity="100%" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" style:page-number="auto" fo:break-before="page" style:shadow="none" fo:keep-with-next="always"/>
    <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
    <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
    <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" style:page-number="auto" fo:break-before="page" fo:keep-with-next="always"/>
    <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0024c6ec" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:paragraph-properties fo:margin-left="3.334cm" fo:margin-right="0cm" fo:text-indent="-1.085cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties officeooo:paragraph-rsid="0021c81f"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="001ce5b8" officeooo:paragraph-rsid="002ee5fe"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" officeooo:paragraph-rsid="00372b6a" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
   <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" officeooo:paragraph-rsid="00372b6a" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" officeooo:rsid="00375591" officeooo:paragraph-rsid="00391cb1" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" officeooo:paragraph-rsid="00391cb1" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" officeooo:paragraph-rsid="00391cb1" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph">
    <style:paragraph-properties style:text-autospace="none"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph">
+  <style:style style:name="P41" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
    </style:paragraph-properties>
@@ -565,9 +572,12 @@
    <style:text-properties officeooo:rsid="00346069"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties officeooo:rsid="003bf529"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
@@ -733,11 +743,11 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:h text:style-name="P16" text:outline-level="1">OpenTBS demo</text:h>
+   <text:h text:style-name="P18" text:outline-level="1">OpenTBS demo</text:h>
    <text:p text:style-name="P3">Hello <text:span text:style-name="T18">[onshow.yourname]</text:span>,</text:p>
    <text:p text:style-name="P4">This is a demo of the OpenTBS plugin.<text:line-break/>The current document has been generated at [onshow..now;frm=&apos;yyyy-mm-dd hh:nn:ss&apos;]<text:line-break/>PHP version: [onshow..cst.PHP_VERSION]<text:line-break/>TBS version: [onshow..version]</text:p>
-   <text:h text:style-name="P17" text:outline-level="2">Merge data with a chart</text:h>
-   <text:h text:style-name="P17" text:outline-level="2"><draw:frame draw:style-name="fr4" draw:name="Object1" text:anchor-type="paragraph" svg:x="0.508cm" svg:y="0cm" svg:width="15.744cm" svg:height="6.563cm" draw:z-index="2"><draw:object>
+   <text:h text:style-name="P19" text:outline-level="2">Merge data with a chart</text:h>
+   <text:h text:style-name="P19" text:outline-level="2"><draw:frame draw:style-name="fr4" draw:name="Object1" text:anchor-type="paragraph" svg:x="0.508cm" svg:y="0cm" svg:width="15.744cm" svg:height="6.563cm" draw:z-index="2"><draw:object>
       <office:document xmlns:chartooo="http://openoffice.org/2010/chart" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.chart">
        <office:meta><meta:generator>LibreOffice/7.2.6.2$Linux_X86_64 LibreOffice_project/20$Build-2</meta:generator></office:meta>
        <office:styles>
@@ -1485,7 +1495,7 @@
     <table:table-column table:style-name="Members.B"/>
     <table:table-column table:style-name="Members.C"/>
     <table:table-header-rows>
-     <table:table-row table:style-name="TableLine94092856060256">
+     <table:table-row table:style-name="TableLine94642211658784">
       <table:table-cell table:style-name="Members.A1" office:value-type="string">
        <text:p text:style-name="P6">First Name</text:p>
       </table:table-cell>
@@ -1497,7 +1507,7 @@
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
-    <table:table-row table:style-name="TableLine94092856312864">
+    <table:table-row table:style-name="TableLine94642211520656">
      <table:table-cell table:style-name="Members.A2" office:value-type="string">
       <text:p text:style-name="P5">[a.firstname;block=tbs:row]</text:p>
      </table:table-cell>
@@ -1509,64 +1519,64 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P18" text:outline-level="2">Merge or delete bullets and numberings</text:h>
-   <text:list xml:id="list2528967317" text:style-name="L1">
+   <text:h text:style-name="P20" text:outline-level="2">Merge or delete bullets and numberings</text:h>
+   <text:list xml:id="list2549495993" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P31">Numbered titles</text:p>
+     <text:p text:style-name="P33">Numbered titles</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P32">This title is kept</text:p>
+       <text:p text:style-name="P34">This title is kept</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P32">This one will be deleted [onload;block=tbs:p;when [var.x_delete]=0]</text:p>
+       <text:p text:style-name="P34">This one will be deleted [onload;block=tbs:p;when [var.x_delete]=0]</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P32">But numbering will be automatically arranged by LibreOffice/OpenOffice Writer</text:p>
+       <text:p text:style-name="P34">But numbering will be automatically arranged by LibreOffice/OpenOffice Writer</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P32">As you can see</text:p>
+       <text:p text:style-name="P34">As you can see</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">Bullets</text:p>
+     <text:p text:style-name="P33">Bullets</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P9">•<text:tab/>This bullet is kept</text:p>
    <text:p text:style-name="P9">•<text:tab/>This one will be deleted [onload;block=tbs:p;when [var.x_delete]=0]</text:p>
    <text:p text:style-name="P9">•<text:tab/>As you can see</text:p>
-   <text:h text:style-name="P19" text:outline-level="2">Merge or delete a part of the text</text:h>
+   <text:h text:style-name="P21" text:outline-level="2">Merge or delete a part of the text</text:h>
    <text:p text:style-name="P7">As you can see, this part of the text contains a title and two paragraphs.</text:p>
    <text:p text:style-name="P7">So you can delete the part using this: [onload;block=text:h+tbs:p+(tbs:p);when [var.x_delete]=0]. You can also merge/delete a custom LibreOffice/OpenOffice Writer section using “block=text:section”.</text:p>
-   <text:h text:style-name="P19" text:outline-level="2">Delete a frame</text:h>
-   <text:p text:style-name="P15"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="2.452cm" svg:y="0.034cm" svg:width="12.596cm" draw:z-index="0">
+   <text:h text:style-name="P21" text:outline-level="2">Delete a frame</text:h>
+   <text:p text:style-name="P17"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="2.452cm" svg:y="0.034cm" svg:width="12.596cm" draw:z-index="0">
      <draw:text-box fo:min-height="1.295cm">
       <text:p text:style-name="P8">This frame will be deleted.<text:line-break/>[onload;block=draw:frame;when [var.x_delete]=0]</text:p>
      </draw:text-box>
     </draw:frame>The frame has been deleted</text:p>
-   <text:h text:style-name="P19" text:outline-level="2">Delete all comments</text:h>
+   <text:h text:style-name="P21" text:outline-level="2">Delete all comments</text:h>
    <text:p text:style-name="P7">This text should <office:annotation loext:resolved="false">
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2011-08-29T23:32:32</dc:date>
-     <text:p text:style-name="P38"><text:span text:style-name="T10">You can delete all comments in the document using command OPENTBS_DELETE_COMMENTS. This is quite useful for managing technical comments in your template.</text:span></text:p>
+     <text:p text:style-name="P40"><text:span text:style-name="T10">You can delete all comments in the document using command OPENTBS_DELETE_COMMENTS. This is quite useful for managing technical comments in your template.</text:span></text:p>
     </office:annotation>have no comment.</text:p>
-   <text:h text:style-name="P20" text:outline-level="2">Merge too long TBS fields</text:h>
+   <text:h text:style-name="P22" text:outline-level="2">Merge too long TBS fields</text:h>
    <text:p text:style-name="P12"/>
-   <text:list xml:id="list2113485385" text:style-name="L2">
+   <text:list xml:id="list4174933784" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P34"><text:span text:style-name="T5">Solution #1 : using </text:span><text:span text:style-name="T6">parameter “ope=docfield” insdide a </text:span><text:span text:style-name="T5">document field.<text:line-break/></text:span><text:span text:style-name="T8">Example : t</text:span><text:span text:style-name="T7">he amout is </text:span><text:span text:style-name="T5"><text:conditional-text text:condition="ooow:false" text:string-value-if-true="[onshow.x_num;ope=docfield;frm=0,000.00]" text:string-value-if-false="XX.XX" text:current-value="true">XX.XX</text:conditional-text></text:span><text:span text:style-name="T5"><text:s/></text:span><text:span text:style-name="T7">€.</text:span><text:span text:style-name="T19"><text:line-break/>Insert a new Writer field from menu <text:s/>Insert / Fields. Its type must be “Function / Conditional text”.<text:line-break/>In the </text:span><text:span text:style-name="T21">Condition</text:span><text:span text:style-name="T19"> expression, enter “false”.<text:line-break/>In the </text:span><text:span text:style-name="T21">Then</text:span><text:span text:style-name="T19"> expression, enter a TBS field with parameter “ope=docfield”.<text:line-break/>In the </text:span><text:span text:style-name="T21">Else</text:span><text:span text:style-name="T19"> expression, enter a text to be displayed when the template is not merged.<text:line-break/>The Writer field will be replaced with text when merged by OpenTBS. The formatting is kept as is.</text:span></text:p>
+     <text:p text:style-name="P36"><text:span text:style-name="T5">Solution #1 : using </text:span><text:span text:style-name="T6">parameter “ope=docfield” insdide a </text:span><text:span text:style-name="T5">document field.<text:line-break/></text:span><text:span text:style-name="T8">Example : t</text:span><text:span text:style-name="T7">he amout is </text:span><text:span text:style-name="T5"><text:conditional-text text:condition="ooow:false" text:string-value-if-true="[onshow.x_num;ope=docfield;frm=0,000.00]" text:string-value-if-false="XX.XX" text:current-value="true">XX.XX</text:conditional-text></text:span><text:span text:style-name="T5"><text:s/></text:span><text:span text:style-name="T7">€.</text:span><text:span text:style-name="T19"><text:line-break/>Insert a new Writer field from menu <text:s/>Insert / Fields. Its type must be “Function / Conditional text”.<text:line-break/>In the </text:span><text:span text:style-name="T21">Condition</text:span><text:span text:style-name="T19"> expression, enter “false”.<text:line-break/>In the </text:span><text:span text:style-name="T21">Then</text:span><text:span text:style-name="T19"> expression, enter a TBS field with parameter “ope=docfield”.<text:line-break/>In the </text:span><text:span text:style-name="T21">Else</text:span><text:span text:style-name="T19"> expression, enter a text to be displayed when the template is not merged.<text:line-break/>The Writer field will be replaced with text when merged by OpenTBS. The formatting is kept as is.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P33"><text:span text:style-name="T11">Solution #2 : usi</text:span><text:span text:style-name="T12">ng </text:span><text:span text:style-name="T14">paramet</text:span><text:span text:style-name="T11">er “</text:span><text:span text:style-name="T9">enlarge=tbs:comment</text:span><text:span text:style-name="T11">” inside </text:span><text:span text:style-name="T12">a comment<text:line-break/></text:span><text:span text:style-name="T15">(only for LibreOffice and OpenOffice)</text:span><text:span text:style-name="T12"><text:line-break/>Example : t</text:span><text:span text:style-name="T13">he amout is </text:span><office:annotation office:name="__Annotation__171_124333522" loext:resolved="false">
+     <text:p text:style-name="P35"><text:span text:style-name="T11">Solution #2 : usi</text:span><text:span text:style-name="T12">ng </text:span><text:span text:style-name="T14">paramet</text:span><text:span text:style-name="T11">er “</text:span><text:span text:style-name="T9">enlarge=tbs:comment</text:span><text:span text:style-name="T11">” inside </text:span><text:span text:style-name="T12">a comment<text:line-break/></text:span><text:span text:style-name="T15">(only for LibreOffice and OpenOffice)</text:span><text:span text:style-name="T12"><text:line-break/>Example : t</text:span><text:span text:style-name="T13">he amout is </text:span><office:annotation office:name="__Annotation__171_124333522" loext:resolved="false">
        <dc:creator>Auteur inconnu</dc:creator>
        <dc:date>2019-07-23T23:19:45.271000000</dc:date>
-       <text:p><text:span text:style-name="T25">[onshow.x_num;enlarge=tbs:comment;frm=0,000.00]</text:span></text:p>
-       <text:p text:style-name="P39"><text:span text:style-name="T25"/></text:p>
-       <text:p text:style-name="P39"><text:span text:style-name="T26">Extra text in the comment, like this one, will be omitted.</text:span></text:p>
+       <text:p><text:span text:style-name="T26">[onshow.x_num;enlarge=tbs:comment;frm=0,000.00]</text:span></text:p>
+       <text:p text:style-name="P41"><text:span text:style-name="T26"/></text:p>
+       <text:p text:style-name="P41"><text:span text:style-name="T27">Extra text in the comment, like this one, will be omitted.</text:span></text:p>
       </office:annotation><text:span text:style-name="T13">XX.XX</text:span><office:annotation-end office:name="__Annotation__171_124333522"/><text:span text:style-name="T13"> €.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P21" text:outline-level="2">Merge data with pages</text:h>
+   <text:h text:style-name="P23" text:outline-level="2">Merge data with pages</text:h>
    <text:p text:style-name="P12">In the next page there is an example illustrating how to perform a merge with one page per record.</text:p>
    <text:p text:style-name="P12">In this example, the first paragraph has a property giving a page break before. Therefore, the page-break is repeated for each record.</text:p>
    <text:p text:style-name="P12">The example also use a block defined with the alias “tbs:page”. This alias is given by OpenTBS and it helps to found the bounds of the page (or pages) according to the page-break defined in the paragraph properties.</text:p>
@@ -1827,7 +1837,7 @@
      </draw:image>
      <svg:desc>[b.number;ope=changepic;from=&apos;pic_[val].png&apos;;tagpos=inside;adjust;unique]</svg:desc>
     </draw:frame>The image is merged using a TBS field which is placed in the Description property of the image.</text:p>
-   <text:p text:style-name="P36"><draw:frame draw:style-name="fr2" draw:name="Bild1" text:anchor-type="paragraph" svg:x="13.614cm" svg:y="0.016cm" svg:width="3.14cm" svg:height="4.196cm" draw:z-index="3"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P38"><draw:frame draw:style-name="fr2" draw:name="Bild1" text:anchor-type="paragraph" svg:x="13.614cm" svg:y="0.016cm" svg:width="3.14cm" svg:height="4.196cm" draw:z-index="3"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAFkAAAB3CAIAAADnz3u+AAAACXBIWXMAAAsSAAALEgHS3X78
        AAA0Q0lEQVR42u3d+/deVXXvcf+f/lxspajYWm1HZXS0Ax2ItVWrgpaK3MMtIUFCQkISEgi5
        koSQGyGEJFxCEkAw3C9RbuINsN6tiKBHFJDzeva77IP2CfGnc/rD2eM79tjP3usy52fNNddc
@@ -2080,10 +2090,294 @@
        AAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-     <svg:desc>[onshow.x_pic;ope=changepic;from=&apos;[val]&apos;;as=&apos;x_pic_file.png&apos;;tagpos=inside;adjust;unique]</svg:desc>
+     <svg:desc>[onshow.x_pic;ope=changepic;from=&apos;[val]&apos;;tagpos=inside;adjust=150%;unique]</svg:desc>
     </draw:frame></text:p>
-   <text:p text:style-name="P37"/>
-   <text:p text:style-name="P37">The image is merged using a TBS field which is placed in the Description property of the image. <text:span text:style-name="T24">The imag.e data in this example comes from an inline image uri.</text:span></text:p>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P39">The image is merged using a TBS field which is placed in the Description property of the image. <text:span text:style-name="T24">The image data in this example comes from an inline image uri. </text:span><text:span text:style-name="T25">It is scaled by 150% for fun.</text:span></text:p>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P37"><draw:frame draw:style-name="fr2" draw:name="Bild2" text:anchor-type="paragraph" svg:x="10.384cm" svg:y="0.33cm" svg:width="6.35cm" svg:height="6.35cm" draw:z-index="4"><draw:image draw:mime-type="image/png">
+      <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQCAYAAACAvzbMAAA50klEQVR4nO3dCXgUVbo38Df7
+       RkL2fQPDvgURRB3lKorIuItcRwWXbxzHGbniBirgFYVxxXHGEbw6M+rguICOy4gL7qDCKFsM
+       S9izEhJICAlZSdJfvUeqrer0Ul29VXf/f8+TR6vS3VW5j9P/e+qc877hRGQiAAAAJ4X7+gYA
+       AMA/mQNk8eLFlJ2d7ct7AQAAP3Dw4EFasGDBzwHC4VFYWOjDWwIAAH+CR1gAAKALAgQAAHRB
+       gAAAgC4IEAAA0AUBAgAAuiBAAABAFwQIAADoggABAABdECAAAKALAgQAAHRBgAAAgC4IEAAA
+       0AUBAgAAuiBAAABAFwQIAADoggABAABdECAAAKALAgQAAHRBgAAAgC4IEAAA0AUBAgAAuiBA
+       AABAFwQIAADoggABAABdECAAAKALAgQAAHRBgAAAgC4IEAAA0AUBAgAAuiBAAABAFwQIAADo
+       ggABAABdgiZAQru7KUT66Y2KIlNIiK9vBwDA7wVsgMTv3k1p33xDiSUlFHfgAIUfPy7Om0JD
+       qTM9nVoGDaKjp51G9ZMm0YmEBB/fLQCA/wm4AEnZsIEKX3mFEnbtsvr7kN5eij50SPykrVtH
+       RX/5C9VOnUrls2ZRV0qKl+8WAMB/BUyARNXX09ClSyn5hx+cel/oiROU8+9/U8YXX9De3/2O
+       ai+6yEN3CAAQWAIiQHjUMfwPfzA/ptIjvLWVhj75JPXfto123XUXmcLC3HiHAACBx+8DJPft
+       t6lo2TIKMZn6/I7nOnhE0TB+PLXl5ZEpPJyipZFKbGUlpa5fT6nffNMndLI++ogim5qodNEi
+       8XoAALDOr78hC/75Txr4t7/1Od8dF0cHbr6Zai69tM9IorWgQPwcPvtsCps9W3xG3qpV4lGW
+       LEUKFx6N7Lz/fo//DQAA/spvAyRr9Wqr4XFs+HDa8eCD1CGNPhzpiYmh/b/+NdWfey6Nnj9f
+       zKPIMj/9lI6fcgpVzZjh1vsGAAgUfhkg8bt20ZA//anP+brJk6ls7lzqjYhw6vM4KDYuW0Zj
+       77yTYquqzOcH/v3v1HD66dQmjVgAAEDN7wKEHzUNX7JEbApUqp02jcruvptI5ybBruRkKnns
+       MTrtt7+liJaWn67V1UWnvPgilS5e7PJ9AwAEGr8LkJx33qHY6mrVuYYJE8TKKb3hIevIyqI9
+       s2eLFV2y1O++o3779olRCgAA/MyvAiS0s5MKXntNda4tN5e2P/ig2GHuDvwYLH/lSuq3d6/5
+       XOaaNbT3ttvc8vkAAIHCrwIk/auvKKK5WXVuz//8D/XExrrvItIohldvDXn6afMp3rGOAAEA
+       UPOrAMn47DPVMT+6ajztNLdf58iZZ6oChMueRDQ10YnERLdfCwDAX/lNgPDkeeK2bapzh6ZO
+       9ci1eEKdfyIbG83n4srLqam42CPXAwDwR34TIFxRl+dAZL3h4XTkjDM8dr0T/furAsSVMikA
+       AIHIbwIkWrHJj3VmZIjeHp4S0tOjOg61OAYACHZ+EyBhFiOAztRUj12L62pF19WpzvEjLQAA
+       +JnfBIgpMlJ1HNrR4bFrxZeVqR6XsfasLI9dDwDAH/lNgHRajACiFPMT7pb+5Zeq4/bsbG0j
+       Hmnkwo+6elHFFwCCgN9807UOGKA6jjp8WCyv7cjMdOt1eLKcS7orcT0sh6Tw4Aq+HGyljzzi
+       dD0uAAB/4zcBwquiuKhhbEWF+Rz3PK+aPt2t1xnw8suiuZRS7S9/af9NJ8Mj6+OPxeGohQsR
+       IgAQ8PwmQFj92WdToSJA8t56i2ouucRtq7GSNm8WtbaUjp56Kh0fOND2myzCgyV//z1CBAAC
+       nl8FCI8ECt54w1yJl/t35EvH5Tfc4PJnx9TU0PDFi9WdDUNCaO+tt9p+k5XwkCFEACDQ+VWA
+       dGRkUO2FF1L26tXmc4X/+Ae1DBlCDRMn6v7c6NpaKp47V7SyVaq68ko6PmiQ9TfZCQ8ZQgQA
+       AplfBQjbf8stosR65NGj4phHDCOkkQN/SR8dO9bpz0soK6NRDzzQJzyOFxXR/t/8xvqbbIQH
+       r77iPuwxBw+azyFEACBQ+V2AnEhIoLJ776VR8+ebHzeFtbXRmHnzaM/tt4tKulqE9PaK+Y6B
+       f/0rhVns+eAQ+HHJEutf+HbCY/tDD4mWumPvvluUXpEhRAAgEPldgDB+XLX397+nQX/5i/kc
+       z4sMfuYZyvzkE9HnnAsfmqw0mAqVXpeyYYN49KXs+SHjHedbH3+cOtPS+l7YQXhwFV+2ZelS
+       hAgABDy/DBBWfeWVokLvKS+8IL7YZQk7d1Kx9OXdlZQkSr1zzawT8fGiHHtMbS0lbdpkbllr
+       qT03V4RHh7Vd5xrDg3HZd4QIAAQ6vw0QVvnf/00d0khh6NNPi8dYSjxHkvnpp5o/6/CkSVR2
+       113ULYVNH06EhwwhAgCBzq8DhNWfdx41Dx8uGkAlb9zo9Pt5vmPfr39Ndeefb/0FOsJDZi9E
+       RkgBsu1//5dMYWFO3zMAgBH4fYAwLmdS8sQTlLh1K+WvWiW+oC3LsVvizYG1F19MB6dNo16L
+       Qo1mLoSHzFaIpH7zjZiz2SWdBwDwRwERIDKeOOcfXpLLu8p5PoTLsoe1tlJvdLSYIG8ZNIia
+       xoyh1oIC+x9mZ5/Hnjvu0BQeMnOI3HWX6Gwo4/0svM9E68oxAAAjCagAkXVJX9h1550nfnRx
+       sEmQd79zgUVnepJwiJQ8/jiNu/12UQhSdsry5dQ4bhy15+Tou1cAAB8JyABxiYYd5lz2ZOyd
+       d9KWP/7RqRDhpcE7Fiyg4jlzft7D0tlJA//2N9r+4IMu3zoAgDchQJTszHk0DxtGiaWl5nN6
+       Q6Rp1Cgx8Z/x+efmc2nr1omlxSesrQADADAoBIjMwYQ5P7LilVNpa9eaf6c3RA5NnaoKEJ7w
+       5y6IjePHu/53AAB4CQKEaVxttX3hQreESFtubp9zEc3NLvwBAADehwBxYqku79kQIbJ4MaV9
+       /bX5vLMhEm4lLPD4CgD8TXAHiI59HiJE5s+nUZ2doqaWTITIHXfQ1qVLHbbZTfv2W/WJkBDb
+       ZeMBAAwqeAPEhU2CJn6NNBIZf8stqtLtXGuLl+luW7SIjo0YYfW9/fbvp7yVK1Xn+LVcuwsA
+       wJ8EZ4C4YYd5T0yMKOiorAjMIhsbaeycOVQ5YwZVXXON+dEUVwvO+PJLGvTnP1NYR4fqPVVX
+       X+3iHwQA4H1BGSDckMqV8JDxrndreFVVweuvU96qVXR88GARNv327LE6Uc4rrw6ffbbd6/Dn
+       8ailevp0FGAEAMMIygA5ctZZoo964SuviGM94cEcPXbi3iMJO3bY/H17djbtuP9+u5/B4SFP
+       2ieVlKCKLwAYRlAGCDsgBQjL/+c/dYWHoOhDwiFUee21lP/aayI4HOFJc+56yCVObFGGB0Mp
+       eAAwkqANEMYhUjd5stV9GVooH0lxaHBPdq6/xd0O07/6SrTNtdQbFSXmPCquu456pH+3xTI8
+       ZP1LSym2okL0bAcA8KWgDhCmNzxYVH296ji2slJU+uV6V/t++1sxYojfu1dUA+aRRov0pd9w
+       1lnUHRtr93NthQfPpZQ89hjCAwAMIegDxBWxNTWq4/D2dvO/84bC2mnTqNbJz3QUHsdGjdJ7
+       uwAAboUAcYGyQRRzdV4C4QEA/gQB4gLeFKhks7OhBggPAPA3CBCdeII8bt8+1Tm9u8kRHgDg
+       jxAgOsWWl4tmUEqdKSlOfw7CAwD8FQJEJ+63bqkjK8upz0B4AIA/Q4Do1L+sTHXM4XEiIUHz
+       +xEeAODvECA6xVuMQJqHDNH8XoQHAAQCBIgOXE03rrxcda556FBN70V4AECgQIDoEL9rV58y
+       JS0aAsRt4WEyUf9t2yh582YxFxN1+DCFt7aKHe68gbF5xAhR5ffY8OGa/yYAAGchQHRIsJj/
+       MIWEUMvgwXbf447wCGtro5z33qOcDz6g6Nq+e9y5shaPjJI3bhSVhtvy86lq+nSxI94UGur4
+       DwMAcAICRIdeiyKIbYWF1BMdbfP1LoeHNOLg0Ch86SWKbGrSfJ9cm2vI00+LviRl99yDx2MA
+       4FYIEB2qL7+cIo4dM/cTsTf/4Wp4RDY00HDpdUmbNum+39iqKhp7551UMXMmHZg1S/RgBwBw
+       FQJEJ7mfCIeIrfkPV8ODS6WMnjePoqQQsYYbUjVMnEit0giId8HzPEh0XR2lrF9PCbt2qfqV
+       8JwN32tMdTXtlD6T+7oDALgC3yIukEPE2gjE1fDgToZjpC96DgVLXDK+XBpJcP8Ra8qlkUZM
+       bS0VvPrqT617FUGS8fnnFN7WRqUPP0ymsDCHfyMAgC0IEBfJIaLkanjwI6fRDzzQJzx4ldWe
+       O+6gQxdc4PC+2rOyqOzee8Vr+V4iGxvNv+MRCs+N8O8BAPRCgLiZq+HBe0xGz5+v6nbI2nNy
+       qOTRR6ndyQZYTcXFtHH5ciqeO1d0MpRlffQRHRs5kmovusipzwMAkCFA3CjEZHJ5qe6g554T
+       8xRKvBx3yzPPUJed/un2dKal0ZalS+m0224Te0ZkRcuWUcOECdSlowgkAAACxI14PwhPaCsD
+       xJnw4P0lWatXq87xxsCSJ57QHR6yruRk+nHJEho3ezaFnqwizI/IClesoN1z5rj02QAQnBAg
+       bqZcneXsDvOBL7ygOubNf9sXLqSO9HS33Bv3Uq+6+moxuS7jR1kHbr7ZqUKQAAAMAeIBHCLc
+       3rZJCg6t4RFXUUFJW7eqzlXNmOH2zX+V11xD2e+/b55jCT1xQoyYDl5yiVuvAwCBDwHiIRXX
+       XuvU6zN5ua0Cjwgqrr/enbck8Equ+nPPFSVRZElbtiBAAMBpCBCD4MKISoemThVf9p5wtLhY
+       FSBxlZUeuQ4ABDYEiAFwa1zL/ur155zjsetZrroKO37cY9cCgMCFADEA3uSnLA/Pk+fHBw3y
+       2PW4jpdST1ycx64FAIELAWIAliOAbukLnSfhteLluFH19dQ6YICm1yeWlqqOeekxAICzECAG
+       0GMx18G72bXi8Bgzd67YfLj1qaccjlx4s2PqunWqc42nnqr9ZgEATkKAGABv8lPiYocRLS10
+       Ij7e7vvk8Eg42Z+9+J57HIZI6tq1otCirDcyko6cfbYLdw8AwQoBYgC84bCtoEBVqypxyxY6
+       7GAiPeOzz8zhwTh0HIVIR2YmNQ8Z8lO5dwkXW9SyiZBHRXkrV1L19OlOPV4DgMCFADEIXlqr
+       DJBMKRwcBUjNZZdRdH095b/+uvmcoxBpkcJj07JlInwGrFghSr87oiwQmVRSQqWPPIIQAQAE
+       iFHUTZ6s2puR8t13Yl7DUfXdfbfcIv7pTIhwR8I6aeRRd/75DrsTWlYXTv7+exq1cCFCBAAQ
+       IEbBpdVbCwpESRPGy3qLli+n0iVLHL5XV4iIizgXHrL+paVitMS1tQAgeCFADOTAjTfSyEWL
+       zMep69eLjoK1U6c6fK/uELHBUV8ThAcAIEAM5PCkSaJ4Yn/FPo3Bzzwjmkk1aSiq6K4QcbUp
+       FgAEBwSIweycN4/GS0EQ1t4ujkO7umj0/feLsu4Np5/u8P0iRKQAyF+50nzOHCJLlzocOSA8
+       AEArBIjBtGdnU5n0Zc9f4mQyiXNhbW00av582nfrrVQ1fbrduQsuz97vwIE+53mzYreDfSWu
+       hAdfl2FiHSB4IEAMiMutc+vZouefN5+TJ9XTv/yS9syeTc3DhvV5H3+Jj1qwgJJ/+EF1viMj
+       Q7TE5X/a4mp48HU52LA6CyB4IEAMiptJmaQv4qLnnlMVWuS2t+Nuv50aJk4U+0Aaxo8XX9y+
+       Dg/5uljiCxA8ECAGVn3FFdSWm0sjFi0S5U3MTCZKWb9e/HBp9qNjxlBUYyMlWnQ09HZ4MN4n
+       MlIKkR+l9wJAYEOAGFyjNMLY+PzzNPjZZ/uMLlhkQwNlfPFFn/O+CA9ZbHW1vT8JAAIEAsQP
+       8G70kscfFyMOngdx9AXty/Bg1uZnACDwIED8SMMZZ1DjxImUuHkzZa1ZIyrrcjdDJV+HB2se
+       OlTjXwQA/gwB4mdMISF0dNw48RM2Z47YdJiwezfF79pFkUeO0PaHHvJpeLAWjEAAggICxI/x
+       l37jhAniRwtPhAfvbo+uraXwk10VTeHh1IIyJwBBAQESJDwVHtsfeIBOv+mmn88NHCiaVAFA
+       4EOABAFPhceWp57q018d8x8AwQMBEuA8GR5cGoU3NiohQACCBwIkgHk6PFi8oqUuwxJegOCB
+       AAlQ3ggP3hEv91Zn3bGx1Jaf774/AgAMDQESgLwSHvTTjnN59RXjfuuOuhwCQOBAgASYEGlU
+       4I3wYO6a/+AaXs0jRqAAI4CfQYAEGN5o2FpYqAoQT4QHc8f8B98nBx5vjEQVXwD/ggAJQAdu
+       uEH8s/CVVzwWHizBIkCc3YEuhwc/cuMqvigFD+BfECABikOEv4i5l7onwiO0u5v67dtnPu5M
+       TaXOlBTN96cMD1nSxo3U/8cfxWgEAIwPARLAKq691u7v9YYH67d3rwgRmTOPr6yFhyk0lHbe
+       dx/CA8CPIECClCvhwSwfX2mdQLcXHnXnn6/x7gHACBAgQcjV8GCWK7C0zH8gPAACCwIkyLgj
+       PJhyBRav/GoePNju6xEeAIEHARJk0r76yuXw4M2DsTU15uO2ggLqiY21fU2EB0BAQoAEmboL
+       LqDYgwfFEl/mbHgw8fjKZDIf25v/QHgABC4ESBCS94mkfved0+HBtM5/IDwAAhsCJEhxiFT8
+       6le6mj/12YFuZQSC8AAIfAiQIKa3c6CyAm9vVJToQqiE8AAIDggQcEp0XR1FNjaaj7n/uSks
+       zHyM8AAIHggQcIq9CrxeDw+TSVzLFI7/jAF8Af/LA6fYqsDrzfDgvSwZn35K+atWUUdGBgow
+       AvgIAgScYq0Cr7fCI6K5mXLef59y3nmHIo8eFediKypQxRfARxAgoFlIby/F79ljPj7Rvz/F
+       795Nwz0cHjE1NZT31luU+fHHFNbZ2ef3KAUP4BsIENAsrrycwjo6zMccKJ4Mj/7bt1Pem29S
+       6rffik6L9nAp+AhpVNKZnu7ydQFAGwQIaGY5/xHe0qI6dkd4cFCkrltH+StXUsKOHVZfwxsf
+       ee6FRx6yI2edhfAA8DIECGjW32IFlpKr4cGPprI++ohyV62imNpa69cID6eD06bRgZtuouK5
+       c1W/q77iCl3XBQD9ECCgmeUIROZKePCektx336Xs996jCIsRjfnzw8Lo0JQpVH799dSRlUUp
+       69dTP8VcTOuAAdRUXOz0tQHANQgQ0CS0q0vMgVjSGx78WXnSaCPjs8/EslxruhITqVYacRy8
+       9FLqUDyeKnjtNdXrMPoA8A0ECGjCZU8qZs40V/FlesIjacsWMTGewiXlbUyMcx/3mssuoyPn
+       nEO9FpsEE0tLxeS6rLtfP1FhGAC8DwECmslVfDlEnAkPXqWV/uWXYuOf8tGTUndsLNVNmUI1
+       0mijtbDQ5mflvfGG6rj2oouoJypK+x8BAG6DAAGncIhwB8L27GyH4RHe1kbZH3xAuW+/TVGH
+       D9t8Xf2kSVQ2bx71REfb/byY6mpK3bDBfMz3UXP55U7dPwC4DwIEnFY+a5bd30fV11OeFBrZ
+       q1dTmBQijqR98w3Vn3suHT7nHLuv4zBSPvZqnDiR2rOytN00ALgdAgTchnep561cSelffaXa
+       XKjEcxaHf/ELyvzkE/PmQH7tiEceoe0LF9oMkdDubspas0Z1DpPnAL6FAAGXpWzYIIIjaetW
+       m6/hsidV06dTjfSlz/MdR089lYY9+qjmEEldu5YimprMx215edQ4bpyu+42UPqc7Lg5lTwBc
+       hAABl3GDKVvh0ZWSQpVXXy2W4irnOOT5E60hIh5fKXAQUUiI0/fK+07G3nUXdWRmonYWgIsQ
+       IOAy5eosGe/bqLzmGrGPw1bnQ60hwpPnSSUl5vf1SCOY2ilTnL5POTxiKyvFDwowArgGAQJu
+       IYcI9+ngXuuHLrxQU6MnLSFiOXnO4cEh4gxleMi4llbRsmW0+447nPosAPgJAgTchkOEV2iZ
+       nHy0ZC9EeK9J1ief/PxiXrrr5OS5tfBgbfn5VD5zplOfBQA/Q4CAWzkbHjJbITJ8yRLV63ji
+       nCfQtbIXHluefpq6kpN13S8AIEDAQKyFiCVnlu4iPAA8CwEChmIvRHjTIG8e1ALhAeB5CBAw
+       HA4RrtA79MknVee5bImWR2QIDwDvQICAIYVa9D7ngolcONERhAeA9yBAwHC41zpX7lXiku1c
+       BsUehAeAdyFAwHC4lla0RVvbagdVdxEeAN6HAAHDyX/zTdUxt6ttHTjQ5usRHgC+gQABQ0ne
+       uLFP0yl7S3cRHgC+gwABQ8l//XXVcWd6Oh056yyrr0V4APgWAgQMI373btEzXYl7o3P7XEsI
+       DwDfQ4CAYViOPriK78Fp0/q8DuEBYAwIEDCEmIMHKW3tWtW5+vPOE42olBAeAMaBAAFDSNi+
+       vU/pEsvJc4QHgLEgQMAQeKNgrDQKkZtSHRsxgloGDTL/HuEBYDwIEDAMZWdD5egD4QFgTAgQ
+       MBQOkRPx8eZ2tggPAONCgIDhVF95pfgnwgPA2BAgYFi8KssyPNi+3/wG4QFgAAgQMCzu/xF5
+       7Jh5Yl3GzaZKnnySmocO9dGdAQBDgIChKSfWZeGtrTTm3nsRIgA+hgABw0OIABgTAgT8AkIE
+       wHgQIOA3ECIAxoIAAb9i5BCJaGqilP/8h/rt30/hbW10IiGBmgcPpsYJE6gnJsZn9wXgKQgQ
+       8DtGCxEOi4F//StlrV5NoSdO9Pl9T1QU1V50EVVcfz2WH0NAQYCAXzJKiETV11Px3LlW96vI
+       wjo7Kffddynz009p729/S7W//KVX7g3A0xAg4Ld8HSKhXV005r777IaHEt/b0KVLKXH7diq7
+       +24yhYV59P4APA0BAn7NlyGS/+abFFderjrXkZFBdZMnU1dqKkUdOkRp331HMdXVqtdkfvyx
+       mC8pffhhMoXjf4Lgv/BfL/g9WyFStHw5bf7TnzxzUZOJct5/X3Wq4YwzaPuDD4o5D9n+W28V
+       gTHouecorK3NfD5lwwYa/uijtH3BAqKQEM/cI4CHIUAgIFiGSOvAgVS6aJHHrhdbU0ORDQ3m
+       457YWNpx//2q8GAmKRx4Ar1p1CjxuIs7L8rSv/ySjkv3WXHddR67TwBPQoBAwJBDJG3dOtry
+       1FN0IjHRY9eKPHpUdXxs+HDq7tfP5uvbc3Np87PP0tg771TNmQx46SWxzFfZPAvAXyBAIKBw
+       iFRec02fkYC79URHq455Qt2RrqQk2vrEEzTu97+nqJOjl5DeXhr8pz/Rpr/8xSP3CeBJCBAI
+       OJ4OD9aWk0Om0FARACyhrIwimpvF5kF7OtPTaef8+TTm7rvNPeATduygpE2b6Oi4cR6/bwB3
+       QoAAWMFf7lGHD1OH9IVvDc958Aqv/tKXP+MRSPa//61pPuNocTHVn3ceZXz+uflc1scfI0DA
+       7yBAAKw45fnnxRf8lj/+kdry8qy+pu7CC80BwvJXrqSaSy+l7vh4h59ffdVVqgBJ2rzZ9ZsG
+       8DIECIAFfpyUt2qV+Hee9LYVIrVTplDhyy+bJ9TDW1powCuv0J7bb3d4jeYhQ6g3PJxCu7vF
+       MX9G+PHjdifiAYwGAQKgZDKJPRsy7ss+WAqQrU8/3eelvVFRVDFzJg3685/N53LefZcOSSMT
+       h6uqQkLIFBFBdDJAmJaJeAAjQYAAKCRv3KjeXS590e+/5Rabr6+5+GLKeecdiq2q+unlvb00
+       RAqbTcuWiT0gtvB+kLD2dvMxT8if6N/f5fsH8CYECIBC2jffqI6PTJxIzcOG2Xw9lyLZ8z//
+       I0qnyOJ37RKhUn3llTbfxyMVJR6x2KqNFVtdLUqk9PKIBcBAECAACgk7d6qOebWUI43jxlH9
+       pEmU/vXX5nMD//53Oiyd60xJ6fN6XuHFfUNU1zn3XJufzyVZQnp6qPSRRxAiYCgIEACFqLo6
+       1XFrYaGm9+29/XZK/uEH0RuEcd2rU/7v/2jHAw/0eS0/2tr61FNigp4fZXGPkNqLL7b6uTz6
+       4LpZPDczauFChAgYCgIEQEHe3Gc+PrlR0BEeaZTfdBMVKSbgMz77jKquuopahgzp+/q0NLG6
+       a+zdd9Pe226j7thYq58rVoOdvKfk77+n4VKAbHv4Ya1/DoBHIUAAFLh+Fi+nlcWWl2uuU1V9
+       xRWU9eGHFHfggPkcP8oqefxxq6/nEPn+xRfFai5reGd75po16vfY2NgI4AsIEAAFro6r7N+R
+       un491V1wgab38koq7jg4Zt488zl+rBVbUUFtBQVW32MrPFjOe+9RaGfnz68ND6fKGTM03QuA
+       NyBAABQaJk6ktLVrzcdc2ZfnIdpyczW9v3H8eDFiid+zx3wuXfq88pkznboP7q1uuVKLd75j
+       BAJGggABUODVVEXLlpkfY/Hqp4EvvkjbnOgtwiMWZYAk/vij0/fB8yfKkvE8uqm45hqnPwfA
+       kxAgAAo9MTFi4nuAorshj0K42GHt1KmaPsNy34hlS1st8t56S3Vc/1//Re05OU5/DoAnIUAA
+       LFT+6leU+emnqu6BvLu8PSuLmsaMcfh+y3LyzpYo4XkT5UQ874avuPZapz4DwBsQIAAWeiMj
+       acfChTR29mxzscMQ6Z+jH3hA9DDn3uf2JJaUqI47U1Odur5cyFF25MwzRYteAKNBgABYwdVy
+       d8+ZQ0Ofesp8jmtX8WY+nhCvlEYE1jb0RdXXU+GKFapzTaNHa74ujzy4HpcSeqaDUSFAAGyo
+       nTaNIo8dE5PoMt5YyPMjvD+DH3UdOess0aqWJ91Tv/1W7D7n/Rsy3nVua5e5NZajDy6Two2r
+       AIwIAQJgR4UUEr1hYVQkBQMpdqnH1NaKeRH+4TkPnuew3MXOqqdPp1Ybe0As8aorZZMpcf3r
+       r3ftDwDwIAQIgANVM2aIhlLDHn9cNbqQhSk2+ykdOeMM2veb32i+Dlfw5f0fsmMjR2qatAfw
+       FQQIgAY8cf6fl1+mgX/7G2V98omYVLeFy7Jz6Oz/f/9P7N/Qgnec57z/vuoc5j7A6BAgABpx
+       naxdd99N5TfcIJb5Jv/nP9Rv/34x/8ElSXi3Ou9EP3jJJWLJrzOy1qxRjW6OFxVRw+mnu/tP
+       AHArBAiAk3hZLs+N8I/Acx92ug86JL0/12LyvNzdow/pGryrnhtgAbgL/msCcJUr4SFJ3bBB
+       1NuSteXn05FzznH1rgR+1JbxxReU/8Yboo4W+omAOyFAAHwsb+VK1THvOrfXT10L3rOS/eGH
+       Ylkw701h3OsdTanAnRAgAD7ERReVO9c7MjOpbvJk3Z8X0dREue+8Iyr5RrS09Pk9N6Ua+eCD
+       VPqHP7gcUgAIEAAfshx98OZEXsXlrOjaWsqXRhtZH32k6iGixBP9hy64gKqmT0d4gFsgQAB8
+       JOrwYUr/+mvzcVdKiuaKv7J+e/eK+Y30r76y2X6XP7fmssuo5tJL6URCgkv3DKCEAAHwkdx/
+       /Uu1n6Ty6qs1z00kbdlC+a+/3qdultLxU04Ro436yZNFN0MAd8N/VQA+ICa5V682H/PI4KA0
+       QrCHS6Wkrl1LBdKII37XLhsvChH7R6qkMDo6dqw7bxmgDwQIgA9kffihueshq77qKuqJjrb6
+       Wi5vkvnJJ5T/5psUU1Nj9TVcj+vQlClULQWH1va7AK5CgAB4Gc9V8OMrWXdcHFVfcUWf14W3
+       toryJrlvv02RjY1WP6uT5zcuv1yMXk7Ex3vsngGsQYAAeFnqunWimq+MRx/d/fqZj6MaGij3
+       rbco59//prC2NqufcXzQIDG/UXfuudhdDj6D//IAvEzZ84NHH9yDnUXX1VHBq6+Kx1WhVoo1
+       8tLbhokTxWOqo8XFzl3UZKL+27ZR8ubNlLBzp1gBxiOc7thYUZqlecQIUcfr2PDhrvxpEGQQ
+       IABelLBjB/WXfmS865zLwYsqvx9+aDU4eG7k0IUXiqBpd3J+g0cwOe+9RzkffCD2ilji7u28
+       Q51XcxW+8oooo8IjG26mpbWSMAQvBAiAF+UrRh888R1z8CBNvO46VR8QGY8Maq64gmouvpi6
+       nZ3fkEYcHBqFL71EkU1Nmt8WW1kpmmTxKKnsnnvo2KhRzl0XggoCBMBL+Iuc5z9kPPJQLuWV
+       tZyc36jXOb8R2dBAwx97jJI2bdJ9r7FVVTT2zjupYuZMOjBrlssFIyEwIUAAvKQrMVF8IfOj
+       IktifuPMM0VwuNKFkPuTjJ43T0zEW9OenS3mUVoLC3/q5d7aKuZeUtavpwTeW6Joy8urxfhe
+       Y6qraaf0mZisB0v4LwLAiw7ccIP4pxwiPL/B5Ut4JVZ7To5Ln83zK2OkL3oOBUscSuXSSMLW
+       5sJyKdh4ZRhP4md9/LEqSLhPe3hbG5U+/LCuOl0QuBAgAF7GIdITGSn+nbsXKpfw6sWPnEY/
+       8ECf8OBVVnvuuEMUUXSEuyiW3XuveO2IxYtVe094hMJzI/x7ABkCBMAHKuVuhm4Q1tFBo+fP
+       V7XEZTyiKXn0UadXbjUVF9PG5cupeO5ciq2oMJ/nSr/HRo6k2osucst9g/9DgAD4uUHPPSfm
+       KZR4Oe6WZ54R8y56dKal0ZalS+m0224Te0ZkRcuWUcOECaLCLwACBMCPJZSVUZbFSi5e/lvy
+       xBO6w0PWlZxMPy5ZQuNmzzb3GOFHZIUrVtDuOXNc+mwIDAgQAD828IUXVMe8+W/7woXUkZ7u
+       ls8/XlQkKvvy5LqMH2UduPlm9BYBBAiAv4qrqKCkrVtV56pmzHD75r/Ka66h7PffN8+x8KbH
+       tK+/FgsAILghQAD8VCYvt1XgEUHF9de7/Tq8kos3NXJJFBk3tEKAAAIEwE9xYUSlQ1Onii97
+       T+DijcoAiaus9Mh1wL8gQAD8EJdBidu3T3Wu/pxzPHY9y1VXYYpmWBC8ECAAfog3+XGpERlP
+       nnOPEE+JOHZMddwTF+exa4H/QIAA+CHLEQD3FemNiND8fl6OG1VfT60DBmh6fWJpqeqYa2kB
+       IEAA/FCPxVxHSE+P5vdyeIyZO1dsPtz61FMORy4hJpOqijBrPPVU7TcLAQsBAuCHeJOfEhc7
+       jGhpcdgXXQ4P7krIiu+5x2GIpK5dq2rB2xsZSUfOPtuFu4dAgQAB8EM9MTHUVlCgqlWVuGUL
+       HXYwkZ7x2Wfm8GAcOo5CpCMzk5qHDPmp3LuEiy1iEyEwBAiAn+KltcoAyZTCwVGA1Fx2GUXX
+       11P+66+bzzkKkRYpPDYtWybCZ8CKFaL0OwBDgAD4qbrJk1V7M1K++07MaziqvrvvllvEP50J
+       Ee5IWCeNPOrOPx/dCcEMAQLgp7i0emtBgShpwnhZb9Hy5VS6ZInD9+oKEXERhAf8DAEC4McO
+       3HgjjVy0yHycun696CjIXQ4d0R0iACchQAD82OFJk0TxxP6KfRqDn3lGNJNq0lBUESECrkCA
+       APi5nfPm0XgpCMLa28VxaFcXjb7/flHWveH00x2+X4RITw/lr1xpPmcOkaVLRUl3AGsQIAB+
+       rj07m8qkL3vuY04mkzgX1tZGo+bPp3233kpV06fbnbvg8uz9Dhzoc543K3Y72FcCwQ0BAhAA
+       uNw6t54tev558zl5Uj39yy9pz+zZ1DxsWJ/3cXiMWrCAkn/4QXW+IyNDtMTlfwLYggABCBDc
+       TMoUEUFFzz2nKrTIbW/H3X47NUycKPaBNIwfL0YkRggPLsGSt3IlVUujJGdqeYExIEAAAkj1
+       FVdQW24ujVi0SJQ3MTOZKGX9evHDpdmPjhlDUY2NlGjR0dDb4cGP3bi7YVJJCZU+8ghCxM8g
+       QAACTKM0wtj4/PM0+Nln+4wuWGRDA2V88UWf874KD5b8/fc0auFChIifQYAABCDejV7y+ONi
+       xMHzILHV1XZf78vwkPFSZC7NglVf/gMBAhDAGs44gxonTqTEzZspa80aUVmXuxkqGSE8uDhk
+       yWOPITz8DAIEIMCZQkLo6Lhx4idszhzx/+kn7N5N8bt2UeSRI7T9oYcMER7HNGx8BGNBgAAE
+       Ef6ybpwwQfx4E8IjMCFAAMCjXAmP8JYW6o2OxsS6QSFAAMBjXA2PsffcQ11JSVidZVAIEADw
+       CHeER789e8QxlvgaEwIEANzOneHBsE/EmBAgAOBW7g4PGULEeBAgAOA2ngoPGYdIbFUVHR84
+       0G33DPohQADALTwRHly3i0uvyI6cdRbCw0AQIADgMk+EB7+nKzGR0tatM587MGuWe28cXIIA
+       AQCXeCo89vz+9zTud78znxOjD7TYNRQECADo5qnw4PcOWbpU1dcEow/jQYAAgC6eDI/o+nrR
+       SVGG0YcxIUAAwGmeDA/+jMKXX6aQk/3dWTlGH4aEAAEAp3g6PPrt30/pa9eaf3fkzDOpBaMP
+       Q0KAAIBmng4PNkAafZBy9HHDDe77A8CtECAAoIk3wiNe+n3qN9+Yf4/Rh7EhQADAIZ6P8HR4
+       sAEvvaR6DUYfxoYAAQCHuKtha2GhKkDcHR4JZWWUsmGD+fjIGWdg9GFwCBAA0OTAydFA4Suv
+       uD082IC//111XH7jje65cfAYBAgAaMYhwpVwm6QQcGd49N++nZI3bjQfu2v0wdcvfPVVCu3q
+       om0PP4wqvm6GAAEAp1Rce63d3zsbHqzP6MPFuY+EnTtFcKSsX28+h1Lw7ocAAQC30RMeiSUl
+       lLRli/lYjD4GD9Z1/f6lpVS4YoVqNCNDPxH3Q4AAgFvoCQ/mjpVXHEAcHIlbt9p9nTlEFi+m
+       3nB8/bkK/xcEAJfpDY+kTZso8ccfzccNTo4+OBA4OHgORelE//50+Be/EDva+d6UOpOTqTcs
+       TPM1wDYECAC4LP2rr5wOD2Y5+tBUcddkotT160VwxO/apfrViYQEqpoxgxomTKDR8+f3CY/a
+       qVOp7N57iUJCHF8HHEKAAIDLDl5yCUU1NoolvkxLeKRIo4f+O3aYj8XoY8gQ2xeRgiNNGlHw
+       5Hi/fftUv+qOj6eq6dOp6qqrKPLoURp7110Udfiw6jUID/dDgACAW8j7RJI2b3YYHqxQ4+iD
+       e4JwafcCKTjiKipUv+uOi6NqDg7ph/89pqYG4eFFCBAAcBsOkYrrrnM4QZ363XeUoHj8ZG30
+       wbW3Mj79lApfe41iqqtVv+uJjaWqK6+kqquvFqMPhvDwPgQIALiVw9VNJhMNOPmoS3ZAsfIq
+       tLubMj/+mAqk4Ig+dEj1Oh7VVF9+OVVdcw2dOBkcDOHhGwgQAPCqtHXrVBPu3G2QV17xbvGs
+       Dz+kgtdf7xMEPVFRVCMFRyUHR//+qt8hPHwHAQIA3sOjj3/84+dj6cudH3nl/utflM/B0dCg
+       enkvB8cll1DltddSV2Jin49DePgWAgQAvIaX+8bt328+5tHEyAcfpKgjR1Sv642MpIMXXyzK
+       pnQlJ1v9LISH7yFAAMArQixHH5KIpibVMZcYqf3lL8WopDMlxeZnITyMAQECAF6RsG0bxVos
+       w5XxxPuhiy6i8uuvp860NLuf49XwkEKPV4OZUPbEKvxfBQC8gjcXcp2rQsUKLP5iPnThhSI4
+       OjIyHH6Gt8Ij9MQJsYQ4f9UqcV8owGgdAgQAvEZersubAg9dcAGVz5xJHVlZmt7rjfCIaG6m
+       nPffp5x33hE72hmPmlDF1zoECAB4FYdIzaWXUldSkub3eDo8+PPz3npL7D8J6+zs83uUgrcO
+       AQIAXmeU8OAqvnlvvkmp334rJvntSdq4kSKkUUlnerru6wUaBAgAGJYnwoODInXdOspfuZIS
+       FMUclbg8SvOwYWLkIeMNjwgPNQQIABiSu8ODH01lffQR5a5aRTG1tVZfw5P6B6dNowM33UTF
+       c+eqfld9xRXO/QFBAAECAIbjzvCIbGyk3Hffpez33qMIi/4gMlNYGB2aMuWn1WBZWaKXurLc
+       SuuAAdRUXKzrbwlkCBAAMBR3hUdceTnlSaONjM8+E8tyreHyKLXSiOPgpZdSh+LxFBdyVMLo
+       wzoECAAYhmiN62J4cH90nhhP+eEHsRHQmqZRo6jmssvoyDnn9KkenFhaqmqR292vH9VdcIGO
+       vybwIUAAwDB48ppHBMrNhlrCg3eLc9Mp3vhn2VrX/NmxsVQ3ZYpYQtxaWGjzs/LeeEN1XHvR
+       RaIaMPSFAAEAQ5E3G3KIOAqP8LY2yv7gA8p9++0+oxal+kmTqGzePOqJjrZ7bW5clbphg/nY
+       JF2Xy8iDdQgQADAcDpGWoiI6cuaZVsMjqr6e8qTQyF69msKkEHEk7ZtvqP7cc+nwOefYfR2H
+       kfKxV+PEidSucad8MEKAAIAh8b4LS/F79lDeypWiLDw/trKG5ywO/+IXlPnJJ+bNgfzaEY88
+       QtsXLrQZItwJMWvNGtU5TJ7bhwABAMNL2bBBBEfS1q02X8O9RaqmT6ca6Uuf5zuOnnoqDXv0
+       Uc0hkrp2raq8fFteHjWOG+fuPyWgIEAAwPASdu2yGR5dKSlUefXVYimuco6j7vzzxT+1hoh4
+       fKXAQYS+IvYhQADA8JQT6zLet8E90nnVFncwtEZriPDkeVJJifl9PdIIpnbKFI/8LYEEAQIA
+       fkEOEe7TUfGrX4k+IloaPWkJEcvJcw4PDhGwDwECAH6DQ6R81iyxvNYZ9kJk5333UdYnn/z8
+       Yl66i8lzTRAgAOBXnA0Pma0QGb5kiep1PHHOE+jgGAIEAIKGtRCxhKW72iFAACCo2AsR3jTI
+       mwedJn1O/23bKHnzZkrYuVPsig9vbRXLiTtTU6l5xAhqHD+ejg0f7o4/wTAQIAAQdDhEuELv
+       0CefVJ3nsiXOPCLjXfA5771HOR98QNFWeoxwBS2uCpy8caNYQdaWny/2qvDKMVNoqKt/hs8h
+       QAAgKIVa9D7ngolcOFETacTBoVH40ksUqdh86EhsZSUNefppUWa+7J576NioUU7csfEgQAAg
+       6IT09orKvUpcsp3LoDgS2dBAwx97jJI2bdJ9/diqKhp7551UMXMmHZg1y283LCJAACDocC0t
+       y0dO1Rqq7vbbv59Gz5tHUVKIWNOenU0NEyeKcvFdSUliHiS6rk50OOTd9Mq9Jhxi/FiLNzHu
+       lD5Ty54Wo/G/OwYAcFH+m2+qjrldbevAgXbfk7BjB42Rvug5FCw1jRkj9qccHTvW6nvLpZEG
+       92EvePVVyvr4Y1WQZHz+uShLX/rww6K1rj9BgABAUOEJbcumU46W7vIjp9EPPNAnPHiV1Z47
+       7qBDGjoW8gov7m3Crx2xeLHo1S7jEQrPjYjeJ34EAQIAQSX/9ddVx53p6VZLx8vCOjpo9Pz5
+       FNHcrDrfnpNDJY8+Su25uU5dn0c7G5cvp+K5cym2osJ8Puujj+jYyJHaJ/INAAECAEEjfvdu
+       0TNdiXuj21tSO+i558Q8hRIvx93yzDPUlZio6z4609Joy9KldNptt6k6KRYtW0YNEyaICsP+
+       AAECAEHDcvTBVXwPTptm8/UJZWWUtXq16hxvDCx54gnd4SHrSk6mH5csoXGzZ5uXFPMjssIV
+       K2j3nDkufba3IEAAICjEHDxIaWvXqs7Vn3eeaERly8AXXlAd80iFK/hyKXl3OF5URFVXXy0m
+       12X8KOvAzTfTiYQEt1zDkxAgABAUErZv71O6xN7keVxFRZ8mVlUzZrh98x/3NMl+/33zHAvv
+       kE/7+ms6eMklbr2OJyBAACAo8EbBWGkUIjelOjZiBLUMGmTz9Zm83FaBRwQV11/v9vvilVz1
+       554rSqLIeJ4GAQIAYCDKzoaOlu5yYUSlQ1Onii97TzhaXKwKkLjKSo9cx90QIAAQVDhETsTH
+       9+mJrhTW2Ulx+/apztXbeb2rLFddhR0/7rFruRMCBACCTvWVV9r9PW/y41IjMp48P27ncZer
+       Io4dUx33xMV57FruhAABALBgOQLolr7QeyMiNL+fl+NG1ddT64ABml6fWFqqOuZaWv4AAQIA
+       YKHHYq6DW99qxeExZu5csflw61NPORy58Mqw1HXrVOcaTz1V+836EAIEAMACb/JT4mKHES0t
+       Yu7EHjk8uCshK77nHochkrp2rSi0KOPNjUfOPlvTfYZ0d/u0ii8CBADAQk9MDLUVFKhqVSVu
+       2WJ34p1lfPaZOTwYh46jEOnIzKTmIUN+Kvcu4WKLWjYRFj33HMVVVVHpI4849XjNnRAgAABW
+       8NJaZYBkSuHgKEC4rlZ0fb2qZIqjEGmRwmPTsmUifAasWCFKvzvC4ZH39tvi30ctXOizEEGA
+       AABYUTd5smpvRsp334l5DUfVd/fdcov4pzMhwh0JeaMj92p31J1QGR4s+fvvfRYiCBAAACu4
+       tHprQYEoacJ4WW/R8uVUumSJw/fqChFxEefCQ+arEEGAAADYcODGG2nkokXm49T160VHwdqp
+       Ux2+V3eI2GArPGS+CBEECACADYcnTRLFE/sr9mkMfuYZ0UyqSUNRRXeFiLXw4Pa3XBVYuYLL
+       2yGCAAEAsGPnvHk0XgqCsPZ2cRza1UWj779flHVvOP10h+8XIdLTQ/krV5rPmUNk6VJR0t0e
+       W+GxfcEC0Yt97N13U9yBA+bfeTNEECAAAHa0Z2dTmfRlz33M6WQ5+LC2Nho1fz7tu/VWqpo+
+       3e7cBZdn76f4gpfxZsVuB/tK7IUHj44Ydzb0VYggQAAAHOBy69x6tuj5583n5En19C+/pD2z
+       Z1PzsGF93sfhMUr6sk/+4QfV+Y6MDNESl/9pi5bwYCcSE30WIggQAAANuJmUSfoi5i92ZaFF
+       bns77vbbqWHiRLEPpGH8eDEi8UZ4yHwVIggQAACNuIdIW24ujVi0SJQ3MTOZKGX9evHDpdmP
+       jhlDUY2NlGjR0dAT4SHzRYggQAAAnNAojTA2Pv88DX722T6jCxbZ0EAZX3zR57wnw0Pm7RBB
+       gAAAOIl3o5c8/rgYcfA8SGx1td3X6w0PobeXwk+uANPCmyGCAAEA0KnhjDOoceJESty8mbLW
+       rBGVdbmboZJL4UE/lXsf8uST4t+1bGBk3goRBAgAgAtMISF0dNw48RM2Z47YdJiwezfF79pF
+       kUeO0PaHHtL12Ion4rlcOzNqiCBAAADchMvAN06YIH60sDfnwSu+Rkrh49EQWbyYel3oJ4IA
+       AQDwAS0T5tukAPFUiHQmJ1Mvj3RcgAABAPAyrautjpx5pkdChN9Xdu+9Dqv/OoIAAQDwImeX
+       6ro7RLjHSfmsWS6HB0OAAAB4id59Hu4MkfIbbtB5930hQAAAvMDVTYLuChF3QoAAAHiYq+Eh
+       M1qIIEAAADyIy51Y2yTI8xDOhIfMSCGCAAEA8CCuncXzDoWvvKI6n7dypfhd89ChTn+mUUIE
+       AQIA4GEHTk5cK0MkvLWVxtx7L5VIX/ruDJH8116jusmT0dIWACBQeCNEuFc7t8n1RngwBAgA
+       gJd4MkQGvvgilTzxBHWmpbntfh1BgAAAeJGnQqTh9NN/KsLoRQgQAAAv80SIeDs8GAIEAMAH
+       PBEi3oYAAQDwEX8PEQQIAIAP+XOIIEAAAHzMX0MEAQIAYAD+GCIIEAAAg/C3EEGAAAAYiD+F
+       CAIEAMBgbIVI5kcfIUAAAMA+yxCpO/982nPHHb68pT4QIAAABiWHSExNDe287z4yhYb6+I7U
+       ECAAAAYmQsRkIgoJ8fWt9IEAAQAwOgOGB0OAAACALggQAADQBQECAAC6IEAAAEAXBAgAAOiC
+       AAEAAF0QIAAAoAsCBAAAdEGAAACALggQAADQBQECAAC6IEAAAEAXBAgAAOiCAAEAAF0QIAAA
+       oAsCBAAAdEGAAACALuYAOXjwoC/vAwAA/IScF+YAWbBggc9uBgAA/M//B8HY8wLrsXDjAAAA
+       AElFTkSuQmCC
+      </office:binary-data>
+     </draw:image>
+     <svg:desc>[onshow.x_pic_svg;ope=changepic;from=&apos;[val]&apos;;tagpos=inside;adjust=samewidth;unique]</svg:desc>
+    </draw:frame>This image is an inline-uri SVG image.</text:p>
   </office:text>
  </office:body>
 </office:document>
