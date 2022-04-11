@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:generator>LibreOffice/7.2.6.2$Linux_X86_64 LibreOffice_project/20$Build-2</meta:generator><meta:creation-date>2013-10-26T15:56:08.590000000</meta:creation-date><meta:editing-cycles>60</meta:editing-cycles><meta:editing-duration>PT3H45M55S</meta:editing-duration><dc:date>2022-01-04T00:04:46.657000000</dc:date><dc:title>OpenTBS demo</dc:title><meta:document-statistic meta:table-count="1" meta:image-count="1" meta:object-count="1" meta:page-count="4" meta:paragraph-count="40" meta:word-count="501" meta:character-count="3124" meta:non-whitespace-character-count="2664"/><meta:user-defined meta:name="Creator">Skrol29</meta:user-defined></office:meta>
+ <office:meta><meta:generator>LibreOffice/7.2.6.2$Linux_X86_64 LibreOffice_project/20$Build-2</meta:generator><meta:creation-date>2013-10-26T15:56:08.590000000</meta:creation-date><meta:editing-cycles>61</meta:editing-cycles><meta:editing-duration>PT3H46M27S</meta:editing-duration><dc:date>2022-04-11T21:24:41.315408694</dc:date><dc:title>OpenTBS demo</dc:title><dc:creator>Claus-Justus Heine</dc:creator><meta:document-statistic meta:table-count="1" meta:image-count="2" meta:object-count="1" meta:page-count="5" meta:paragraph-count="41" meta:word-count="531" meta:character-count="3283" meta:non-whitespace-character-count="2794"/><meta:user-defined meta:name="Creator">Skrol29</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">117602</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">32514</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">54009</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">33863</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11374</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">2925</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8054</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">125508</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">117602</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">32512</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">54007</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">151463</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -104,7 +104,7 @@
    </config:config-item-map-indexed>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3612725</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3615594</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -164,14 +164,14 @@
   <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol"/>
   <style:font-face style:name="Segoe UI" svg:font-family="&apos;Segoe UI&apos;" style:font-family-generic="swiss"/>
   <style:font-face style:name="SimSun" svg:font-family="SimSun" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#808080" draw:fill-color="#cfe7f5" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -189,21 +189,21 @@
   <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
   <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
-   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="MS Mincho" style:font-family-asian="&apos;MS Mincho&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="MS Mincho" style:font-family-asian="&apos;MS Mincho&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
   </style:style>
   <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
-   <style:text-properties style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
   </style:style>
   <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
    <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
-   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
-   <style:text-properties style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
   </style:style>
   <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
@@ -235,7 +235,7 @@
    <style:text-properties fo:font-size="14pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:list-style-name="" style:class="text">
-   <style:text-properties style:font-name="Times New Roman" fo:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-name-asian="Arial Unicode MS" style:font-family-asian="&apos;Arial Unicode MS&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-name-asian="Arial Unicode MS" style:font-family-asian="&apos;Arial Unicode MS&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
@@ -258,7 +258,7 @@
    <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text">
-   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-family-asian="&apos;MS Mincho&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="11pt" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-family-asian="&apos;MS Mincho&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol"/>
@@ -365,74 +365,128 @@
    <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="3.307cm" fo:margin-right="0cm" fo:text-indent="-0.953cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="0025deb3" officeooo:paragraph-rsid="0025deb3" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="Calibri" fo:font-size="26pt" fo:language="en" fo:country="US" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:color="#0099ff" loext:opacity="100%" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" style:page-number="auto" fo:break-before="page" style:shadow="none" fo:keep-with-next="always"/>
-   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
-   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
-   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" style:page-number="auto" fo:break-before="page" fo:keep-with-next="always"/>
-   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0024c6ec" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:paragraph-properties fo:margin-left="3.334cm" fo:margin-right="0cm" fo:text-indent="-1.085cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties officeooo:paragraph-rsid="0021c81f"/>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="001ce5b8" officeooo:paragraph-rsid="002ee5fe"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="0025deb3" officeooo:paragraph-rsid="0025deb3" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Calibri" fo:font-size="26pt" fo:language="en" fo:country="US" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:color="#0099ff" loext:opacity="100%" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" style:page-number="auto" fo:break-before="page" style:shadow="none" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" style:page-number="auto" fo:break-before="page" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0024c6ec" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0021c81f"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties style:text-autospace="none"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Calibri" fo:font-size="26pt" fo:language="en" fo:country="US" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:color="#0099ff" loext:opacity="100%" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" style:page-number="auto" fo:break-before="page" style:shadow="none" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" style:page-number="auto" fo:break-before="page" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#0099ff" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0024c6ec" style:font-name-asian="MS Mincho" style:font-name-complex="Tahoma1"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-left="3.334cm" fo:margin-right="0cm" fo:text-indent="-1.085cm" style:auto-text-indent="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:paragraph-rsid="0021c81f"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="001ce5b8" officeooo:paragraph-rsid="002ee5fe"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" officeooo:paragraph-rsid="00372b6a" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#800000" loext:opacity="100%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" officeooo:paragraph-rsid="00372b6a" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph">
+   <style:paragraph-properties style:text-autospace="none"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
    </style:paragraph-properties>
@@ -451,61 +505,70 @@
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="8pt"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-weight="normal" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-weight="normal" officeooo:rsid="001d18b1" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-weight="normal" officeooo:rsid="001d18b1" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-weight="normal" officeooo:rsid="001d43a1" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-weight="normal" officeooo:rsid="001d43a1" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-weight="normal" officeooo:rsid="001fe769" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-weight="normal" officeooo:rsid="001fe769" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="001ce5b8" style:letter-kerning="true" style:font-name-asian="MS Mincho" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal" style:text-emphasize="none"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="001ce5b8" style:letter-kerning="true" style:font-name-asian="MS Mincho" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal" style:text-emphasize="none"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="001ce5b8" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="001fe769" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="001ce5b8" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="001d43a1" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="001fe769" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0021c81f" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="001d43a1" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001fe769" style:font-name-asian="MS Mincho" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0021c81f" style:font-name-asian="MS Mincho" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:color="#943634" loext:opacity="100%" fo:font-size="8pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001fe769" style:font-name-asian="MS Mincho" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:color="#365f91" loext:opacity="100%" fo:font-size="8pt"/>
+   <style:text-properties fo:color="#943634" loext:opacity="100%" fo:font-size="8pt"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties fo:font-weight="bold"/>
+   <style:text-properties fo:color="#365f91" loext:opacity="100%" fo:font-size="8pt"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties officeooo:rsid="001d43a1"/>
+   <style:text-properties fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties officeooo:rsid="002c2092"/>
+   <style:text-properties officeooo:rsid="001d43a1"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="001d43a1" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties officeooo:rsid="002c2092"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="001d43a1" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="00346069"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Segoe UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:background-color="#ccccff" style:background-transparency="0%" draw:fill="solid" draw:fill-color="#ccccff" draw:opacity="100%" fo:padding="0.15cm" fo:border="0.06pt solid #0099ff" style:shadow="none" draw:shadow-opacity="100%">
@@ -513,9 +576,12 @@
    </style:graphic-properties>
   </style:style>
   <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:run-through="foreground" style:wrap="left" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true"/>
+  </style:style>
+  <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
-  <style:style style:name="fr3" style:family="graphic" style:parent-style-name="OLE">
+  <style:style style:name="fr4" style:family="graphic" style:parent-style-name="OLE">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:ole-draw-aspect="1"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -667,11 +733,11 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:h text:style-name="P14" text:outline-level="1">OpenTBS demo</text:h>
-   <text:p text:style-name="P3">Hello <text:span text:style-name="T17">[onshow.yourname]</text:span>,</text:p>
+   <text:h text:style-name="P16" text:outline-level="1">OpenTBS demo</text:h>
+   <text:p text:style-name="P3">Hello <text:span text:style-name="T18">[onshow.yourname]</text:span>,</text:p>
    <text:p text:style-name="P4">This is a demo of the OpenTBS plugin.<text:line-break/>The current document has been generated at [onshow..now;frm=&apos;yyyy-mm-dd hh:nn:ss&apos;]<text:line-break/>PHP version: [onshow..cst.PHP_VERSION]<text:line-break/>TBS version: [onshow..version]</text:p>
-   <text:h text:style-name="P15" text:outline-level="2">Merge data with a chart</text:h>
-   <text:h text:style-name="P15" text:outline-level="2"><draw:frame draw:style-name="fr3" draw:name="Object1" text:anchor-type="paragraph" svg:x="0.508cm" svg:y="0cm" svg:width="15.744cm" svg:height="6.563cm" draw:z-index="2"><draw:object>
+   <text:h text:style-name="P17" text:outline-level="2">Merge data with a chart</text:h>
+   <text:h text:style-name="P17" text:outline-level="2"><draw:frame draw:style-name="fr4" draw:name="Object1" text:anchor-type="paragraph" svg:x="0.508cm" svg:y="0cm" svg:width="15.744cm" svg:height="6.563cm" draw:z-index="2"><draw:object>
       <office:document xmlns:chartooo="http://openoffice.org/2010/chart" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.chart">
        <office:meta><meta:generator>LibreOffice/7.2.6.2$Linux_X86_64 LibreOffice_project/20$Build-2</meta:generator></office:meta>
        <office:styles>
@@ -739,9 +805,9 @@
        <office:body>
         <office:chart>
          <chart:chart svg:width="15.744cm" svg:height="6.563cm" xlink:href="." xlink:type="simple" chart:class="chart:line" chart:style-name="ch1">
-          <chart:legend chart:legend-position="end" svg:x="13.13cm" svg:y="2.484cm" style:legend-expansion="high" chart:style-name="ch2"/>
-          <chart:plot-area chart:style-name="ch3" chart:data-source-has-labels="both" svg:x="0.314cm" svg:y="0.131cm" svg:width="12.502cm" svg:height="6.301cm">
-           <chart:coordinate-region svg:x="1.179cm" svg:y="0.33cm" svg:width="10.762cm" svg:height="5.455cm"/>
+          <chart:legend chart:legend-position="end" svg:x="0cm" svg:y="0cm" style:legend-expansion="high" chart:style-name="ch2"/>
+          <chart:plot-area chart:style-name="ch3" chart:data-source-has-labels="both" svg:x="0.314cm" svg:y="0.131cm" svg:width="0cm" svg:height="0cm">
+           <chart:coordinate-region svg:x="0cm" svg:y="0cm" svg:width="0cm" svg:height="0cm"/>
            <chart:axis chart:dimension="x" chart:name="primary-x" chart:style-name="ch4" chartooo:axis-type="text">
             <chart:categories table:cell-range-address="local-table.$A$2:.$A$5"/>
            </chart:axis>
@@ -1413,13 +1479,13 @@
       </office:binary-data>
      </draw:image>
      <svg:title>[chart_evol_by_cat]</svg:title>
-    </draw:frame>Merge data <text:span text:style-name="T19">on the rows of </text:span>a table</text:h>
+    </draw:frame>Merge data <text:span text:style-name="T20">on the rows of </text:span>a table</text:h>
    <table:table table:name="Members" table:style-name="Members">
     <table:table-column table:style-name="Members.A"/>
     <table:table-column table:style-name="Members.B"/>
     <table:table-column table:style-name="Members.C"/>
     <table:table-header-rows>
-     <table:table-row table:style-name="TableLine94585183491648">
+     <table:table-row table:style-name="TableLine94092856060256">
       <table:table-cell table:style-name="Members.A1" office:value-type="string">
        <text:p text:style-name="P6">First Name</text:p>
       </table:table-cell>
@@ -1431,7 +1497,7 @@
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
-    <table:table-row table:style-name="TableLine94585183450608">
+    <table:table-row table:style-name="TableLine94092856312864">
      <table:table-cell table:style-name="Members.A2" office:value-type="string">
       <text:p text:style-name="P5">[a.firstname;block=tbs:row]</text:p>
      </table:table-cell>
@@ -1443,70 +1509,70 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P16" text:outline-level="2">Merge or delete bullets and numberings</text:h>
-   <text:list xml:id="list183500553" text:style-name="L1">
+   <text:h text:style-name="P18" text:outline-level="2">Merge or delete bullets and numberings</text:h>
+   <text:list xml:id="list2528967317" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P20">Numbered titles</text:p>
+     <text:p text:style-name="P31">Numbered titles</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P21">This title is kept</text:p>
+       <text:p text:style-name="P32">This title is kept</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P21">This one will be deleted [onload;block=tbs:p;when [var.x_delete]=0]</text:p>
+       <text:p text:style-name="P32">This one will be deleted [onload;block=tbs:p;when [var.x_delete]=0]</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P21">But numbering will be automatically arranged by LibreOffice/OpenOffice Writer</text:p>
+       <text:p text:style-name="P32">But numbering will be automatically arranged by LibreOffice/OpenOffice Writer</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P21">As you can see</text:p>
+       <text:p text:style-name="P32">As you can see</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P20">Bullets</text:p>
+     <text:p text:style-name="P31">Bullets</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P9">•<text:tab/>This bullet is kept</text:p>
    <text:p text:style-name="P9">•<text:tab/>This one will be deleted [onload;block=tbs:p;when [var.x_delete]=0]</text:p>
    <text:p text:style-name="P9">•<text:tab/>As you can see</text:p>
-   <text:h text:style-name="P17" text:outline-level="2">Merge or delete a part of the text</text:h>
+   <text:h text:style-name="P19" text:outline-level="2">Merge or delete a part of the text</text:h>
    <text:p text:style-name="P7">As you can see, this part of the text contains a title and two paragraphs.</text:p>
    <text:p text:style-name="P7">So you can delete the part using this: [onload;block=text:h+tbs:p+(tbs:p);when [var.x_delete]=0]. You can also merge/delete a custom LibreOffice/OpenOffice Writer section using “block=text:section”.</text:p>
-   <text:h text:style-name="P17" text:outline-level="2">Delete a frame</text:h>
-   <text:p text:style-name="P13"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="2.452cm" svg:y="0.034cm" svg:width="12.596cm" draw:z-index="0">
+   <text:h text:style-name="P19" text:outline-level="2">Delete a frame</text:h>
+   <text:p text:style-name="P15"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="paragraph" svg:x="2.452cm" svg:y="0.034cm" svg:width="12.596cm" draw:z-index="0">
      <draw:text-box fo:min-height="1.295cm">
       <text:p text:style-name="P8">This frame will be deleted.<text:line-break/>[onload;block=draw:frame;when [var.x_delete]=0]</text:p>
      </draw:text-box>
     </draw:frame>The frame has been deleted</text:p>
-   <text:h text:style-name="P17" text:outline-level="2">Delete all comments</text:h>
+   <text:h text:style-name="P19" text:outline-level="2">Delete all comments</text:h>
    <text:p text:style-name="P7">This text should <office:annotation loext:resolved="false">
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2011-08-29T23:32:32</dc:date>
-     <text:p text:style-name="P24"><text:span text:style-name="T21">You can delete all comments in the document using command OPENTBS_DELETE_COMMENTS. This is quite useful for managing technical comments in your template.</text:span></text:p>
+     <text:p text:style-name="P38"><text:span text:style-name="T10">You can delete all comments in the document using command OPENTBS_DELETE_COMMENTS. This is quite useful for managing technical comments in your template.</text:span></text:p>
     </office:annotation>have no comment.</text:p>
-   <text:h text:style-name="P18" text:outline-level="2">Merge too long TBS fields</text:h>
-   <text:p text:style-name="P11"/>
-   <text:list xml:id="list1906372550" text:style-name="L2">
+   <text:h text:style-name="P20" text:outline-level="2">Merge too long TBS fields</text:h>
+   <text:p text:style-name="P12"/>
+   <text:list xml:id="list2113485385" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P23"><text:span text:style-name="T5">Solution #1 : using </text:span><text:span text:style-name="T6">parameter “ope=docfield” insdide a </text:span><text:span text:style-name="T5">document field.<text:line-break/></text:span><text:span text:style-name="T8">Example : t</text:span><text:span text:style-name="T7">he amout is </text:span><text:span text:style-name="T5"><text:conditional-text text:condition="ooow:false" text:string-value-if-true="[onshow.x_num;ope=docfield;frm=0,000.00]" text:string-value-if-false="XX.XX" text:current-value="true">XX.XX</text:conditional-text></text:span><text:span text:style-name="T5"><text:s/></text:span><text:span text:style-name="T7">€.</text:span><text:span text:style-name="T18"><text:line-break/>Insert a new Writer field from menu <text:s/>Insert / Fields. Its type must be “Function / Conditional text”.<text:line-break/>In the </text:span><text:span text:style-name="T20">Condition</text:span><text:span text:style-name="T18"> expression, enter “false”.<text:line-break/>In the </text:span><text:span text:style-name="T20">Then</text:span><text:span text:style-name="T18"> expression, enter a TBS field with parameter “ope=docfield”.<text:line-break/>In the </text:span><text:span text:style-name="T20">Else</text:span><text:span text:style-name="T18"> expression, enter a text to be displayed when the template is not merged.<text:line-break/>The Writer field will be replaced with text when merged by OpenTBS. The formatting is kept as is.</text:span></text:p>
+     <text:p text:style-name="P34"><text:span text:style-name="T5">Solution #1 : using </text:span><text:span text:style-name="T6">parameter “ope=docfield” insdide a </text:span><text:span text:style-name="T5">document field.<text:line-break/></text:span><text:span text:style-name="T8">Example : t</text:span><text:span text:style-name="T7">he amout is </text:span><text:span text:style-name="T5"><text:conditional-text text:condition="ooow:false" text:string-value-if-true="[onshow.x_num;ope=docfield;frm=0,000.00]" text:string-value-if-false="XX.XX" text:current-value="true">XX.XX</text:conditional-text></text:span><text:span text:style-name="T5"><text:s/></text:span><text:span text:style-name="T7">€.</text:span><text:span text:style-name="T19"><text:line-break/>Insert a new Writer field from menu <text:s/>Insert / Fields. Its type must be “Function / Conditional text”.<text:line-break/>In the </text:span><text:span text:style-name="T21">Condition</text:span><text:span text:style-name="T19"> expression, enter “false”.<text:line-break/>In the </text:span><text:span text:style-name="T21">Then</text:span><text:span text:style-name="T19"> expression, enter a TBS field with parameter “ope=docfield”.<text:line-break/>In the </text:span><text:span text:style-name="T21">Else</text:span><text:span text:style-name="T19"> expression, enter a text to be displayed when the template is not merged.<text:line-break/>The Writer field will be replaced with text when merged by OpenTBS. The formatting is kept as is.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P22"><text:span text:style-name="T10">Solution #2 : usi</text:span><text:span text:style-name="T11">ng </text:span><text:span text:style-name="T13">paramet</text:span><text:span text:style-name="T10">er “</text:span><text:span text:style-name="T9">enlarge=tbs:comment</text:span><text:span text:style-name="T10">” inside </text:span><text:span text:style-name="T11">a comment<text:line-break/></text:span><text:span text:style-name="T14">(only for LibreOffice and OpenOffice)</text:span><text:span text:style-name="T11"><text:line-break/>Example : t</text:span><text:span text:style-name="T12">he amout is </text:span><office:annotation office:name="__Annotation__171_124333522" loext:resolved="false">
+     <text:p text:style-name="P33"><text:span text:style-name="T11">Solution #2 : usi</text:span><text:span text:style-name="T12">ng </text:span><text:span text:style-name="T14">paramet</text:span><text:span text:style-name="T11">er “</text:span><text:span text:style-name="T9">enlarge=tbs:comment</text:span><text:span text:style-name="T11">” inside </text:span><text:span text:style-name="T12">a comment<text:line-break/></text:span><text:span text:style-name="T15">(only for LibreOffice and OpenOffice)</text:span><text:span text:style-name="T12"><text:line-break/>Example : t</text:span><text:span text:style-name="T13">he amout is </text:span><office:annotation office:name="__Annotation__171_124333522" loext:resolved="false">
        <dc:creator>Auteur inconnu</dc:creator>
        <dc:date>2019-07-23T23:19:45.271000000</dc:date>
-       <text:p><text:span text:style-name="T22">[onshow.x_num;enlarge=tbs:comment;frm=0,000.00]</text:span></text:p>
-       <text:p text:style-name="P25"><text:span text:style-name="T22"/></text:p>
-       <text:p text:style-name="P25"><text:span text:style-name="T23">Extra text in the comment, like this one, will be omitted.</text:span></text:p>
-      </office:annotation><text:span text:style-name="T12">XX.XX</text:span><office:annotation-end office:name="__Annotation__171_124333522"/><text:span text:style-name="T12"> €.</text:span></text:p>
+       <text:p><text:span text:style-name="T25">[onshow.x_num;enlarge=tbs:comment;frm=0,000.00]</text:span></text:p>
+       <text:p text:style-name="P39"><text:span text:style-name="T25"/></text:p>
+       <text:p text:style-name="P39"><text:span text:style-name="T26">Extra text in the comment, like this one, will be omitted.</text:span></text:p>
+      </office:annotation><text:span text:style-name="T13">XX.XX</text:span><office:annotation-end office:name="__Annotation__171_124333522"/><text:span text:style-name="T13"> €.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P19" text:outline-level="2">Merge data with pages</text:h>
-   <text:p text:style-name="P11">In the next page there is an example illustrating how to perform a merge with one page per record.</text:p>
-   <text:p text:style-name="P11">In this example, the first paragraph has a property giving a page break before. Therefore, the page-break is repeated for each record.</text:p>
-   <text:p text:style-name="P11">The example also use a block defined with the alias “tbs:page”. This alias is given by OpenTBS and it helps to found the bounds of the page (or pages) according to the page-break defined in the paragraph properties.</text:p>
-   <text:p text:style-name="P11">If you try to merge one page per record without text before the first page, then make sure that the first paragraph has the property giving a page break before.</text:p>
-   <text:p text:style-name="P10">Hello [b.firstname;block=tbs:page] [b. name], your membership number is [b.number].</text:p>
-   <text:p text:style-name="P12"><draw:frame draw:style-name="fr2" draw:name="images1" text:anchor-type="paragraph" svg:width="3.14cm" svg:height="4.196cm" draw:z-index="1"><draw:image draw:mime-type="image/png">
+   <text:h text:style-name="P21" text:outline-level="2">Merge data with pages</text:h>
+   <text:p text:style-name="P12">In the next page there is an example illustrating how to perform a merge with one page per record.</text:p>
+   <text:p text:style-name="P12">In this example, the first paragraph has a property giving a page break before. Therefore, the page-break is repeated for each record.</text:p>
+   <text:p text:style-name="P12">The example also use a block defined with the alias “tbs:page”. This alias is given by OpenTBS and it helps to found the bounds of the page (or pages) according to the page-break defined in the paragraph properties.</text:p>
+   <text:p text:style-name="P12">If you try to merge one page per record without text before the first page, then make sure that the first paragraph has the property giving a page break before.</text:p>
+   <text:p text:style-name="P11">Hello [b.firstname;block=tbs:page] [b. name], your membership number is [b.number].</text:p>
+   <text:p text:style-name="P13"><draw:frame draw:style-name="fr3" draw:name="images1" text:anchor-type="paragraph" svg:width="3.14cm" svg:height="4.196cm" draw:z-index="1"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAFkAAAB3CAIAAADnz3u+AAAACXBIWXMAAAsSAAALEgHS3X78
        AAA0Q0lEQVR42u3d+/deVXXvcf+f/lxspajYWm1HZXS0Ax2ItVWrgpaK3MMtIUFCQkISEgi5
        koSQGyGEJFxCEkAw3C9RbuINsN6tiKBHFJDzeva77IP2CfGnc/rD2eM79tjP3usy52fNNddc
@@ -1761,6 +1827,263 @@
      </draw:image>
      <svg:desc>[b.number;ope=changepic;from=&apos;pic_[val].png&apos;;tagpos=inside;adjust;unique]</svg:desc>
     </draw:frame>The image is merged using a TBS field which is placed in the Description property of the image.</text:p>
+   <text:p text:style-name="P36"><draw:frame draw:style-name="fr2" draw:name="Bild1" text:anchor-type="paragraph" svg:x="13.614cm" svg:y="0.016cm" svg:width="3.14cm" svg:height="4.196cm" draw:z-index="3"><draw:image draw:mime-type="image/png">
+      <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAFkAAAB3CAIAAADnz3u+AAAACXBIWXMAAAsSAAALEgHS3X78
+       AAA0Q0lEQVR42u3d+/deVXXvcf+f/lxspajYWm1HZXS0Ax2ItVWrgpaK3MMtIUFCQkISEgi5
+       koSQGyGEJFxCEkAw3C9RbuINsN6tiKBHFJDzeva77IP2CfGnc/rD2eM79tjP3usy52fNNddc
+       c821vu944/9fb17v+IPfr7/++m+H69VXX+3hN29er7zySg+vvnm99tpr0v/uzev137+8keDV
+       37/++5vfvnlV+FtrHN/38Mpw/frXvx4zlux/DdeY0l2aX/7yl7/61a+8d3/55ZfdveyTZ19f
+       Hi50TsfCt2efffaJJ554/PHHn3zyyaeeeuqRRx45dOjQk8P16KOPev7617/+H8P1ne98R+Ln
+       n3/e8/e+973vfve7nr/xjW88/fTTzzzzzLe+9S0/n3vuOc+yuH/zm9/0xv3b3/62u5Q9+KSo
+       54bLg5eK/e5wff/73//hD3/4/HD5KouilN9XySSWHcFeqvGbw+WNn1/72te8//pwId7XH/zg
+       Bz/72c9+8pOfoFaBSpDyRz/60XQsfADkL37xC0TEJArkUQqaFOHhxz/+sWcl/udwvfDCCz//
+       +c9feumlF198EZQe1Nf7nw2XMsv+05/+1Es/PfdGUR4U66WvcnnjWS5FSaxMzYgkxf58uKTx
+       1UNfe1PesVIvq/qF4SoZQUi4RimOX9hNxwJ4BOGrX/3qY489Rgruv//+gwcPPvDAAw899JCX
+       Dz744MPD5cEbXx8cLm/6KfGXv/zlAwcO3HHHHWOyvpZSscr3ILGX991337333qtk7VYbJoyJ
+       oQdi6Csh9bX3SZNLCyVKpMMd5UmNK6HTllD2NSn20iflKKRk0mANedOxwP+mTZu2bNnifu21
+       11511VVLlixZsWLF8uXL165du2rVqs2bN/vqeePGjV6uWbPmyiuvlGz16tXXXHNNKV1XX331
+       muGSeNu2bYrasGGDBN6sXLlyxXB5r5b169f3XhrFynv99ddv375963CVXQJVr1u3Tu1e+rpj
+       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
+       AAAASUVORK5CYII=
+      </office:binary-data>
+     </draw:image>
+     <svg:desc>[onshow.x_pic;ope=changepic;from=&apos;[val]&apos;;as=&apos;x_pic_file.png&apos;;tagpos=inside;adjust;unique]</svg:desc>
+    </draw:frame></text:p>
+   <text:p text:style-name="P37"/>
+   <text:p text:style-name="P37">The image is merged using a TBS field which is placed in the Description property of the image. <text:span text:style-name="T24">The imag.e data in this example comes from an inline image uri.</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
